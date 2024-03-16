@@ -1,0 +1,97 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Sure, I'm ready for the lyrics. Please provide them, and I'll rate them and give my prediction.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+Got it. I will provide my honest opinion as if it's my first time seeing the lyrics. Please go ahead and share the lyrics, and I'll rate them and give my prediction.
+AIudio Xplore
+@aiudioxplore
+Buddah Bless this beat
+
+I feel like I'm Gucci Mane in 2006
+All these diamonds dancing on my fucking neck cost like four bricks
+And the way that I be toting on that strap don't make no sense
+He a million dollar nigga but be posted in the bricks, uh
+It make no sense, yeah, it make no sense, uh
+It make no sense, goddamn, make no sense, yeah, uh
+Make no sense, nah, uh, make no sense, ayy, ayy, YoungBoy
+Make no sense, nah, it make no sense, slime
+
+I could hit it, I could whip it, I could bag it, I could stash it
+I could trap out like a motherfucker (Motherfucker)
+And you know me, bitch, I just bought another 30 burner (30 burner)
+I whip too hard, so I got Ike and Meech, got Tina Turner (Whippin' hard)
+It don't make sense, I'm not alright, bitch, I'll put you under
+I ain't cut too much, I got that shit that make 'em tweak like damn
+Can't be in front the trap too much, the world know who I am (Who I am)
+This shit ain't sweet, who close to me, I see 'em hatin' like damn
+All I know get the money, still gon' be the one to slay 'em
+Like nigga, uh, nigga
+Nigga, bitch, nigga, baow, with my jewelry (Fuck a jury)
+
+I feel like I'm Gucci Mane in 2006
+All these diamonds dancing on my fucking neck cost like four bricks (Oh-oh)
+And the way that I be toting on that strap don't make no sense (Yeah)
+He a million dollar nigga but be posted in the bricks, uh
+It make no sense, yeah, it make no sense, uh
+It make no sense, goddamn, make no sense, yeah, uh
+Make no sense, nah, uh, make no sense, ayy, ayy, YoungBoy
+Make no sense, nah, it make no sense, slime
+
+4KTrey, BoB, I been that, bitch, you notice me (Uh, slatt, brr)
+Tell them niggas I say, "Fuck 'em"
+These hoes ain't shit, they want my cash, so I'll never love 'em (Stupid bitch)
+I flash and beat a nigga ass with this fifty ball (I don't need no clique)
+On TV, I could tell my youngin hit him with the cutter (Motherfuck a nigga, boom, boom)
+That's a bar, real nigga blessed him with that bar and he say yeah-eah
+He out the H, you play, he shoot you in your face (Bitch)
+Northside, bullets flying, back to back, bitch, when we ride (Grrah, grrah, grrah)
+I'm convicted, but it's an issue, I'll slide for a slide
+Die today, bitch, they say four pussy niggas died 'fore I died, slime
+
+I feel like I'm Gucci Mane in 2006
+All these diamonds dancing on my fucking neck cost like four bricks
+And the way that I be toting on that strap don't make no sense
+He a million dollar nigga but be posted in the bricks, uh
+It make no sense, yeah, it make no sense, uh
+It make no sense, goddamn, make no sense, yeah, uh (Oh, yeah, oh)
+Make no sense, nah, uh, make no sense, ayy, ayy, YoungBoy (Yeah)
+Make no sense, nah, it make no sense, slime
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 4/5
+The lyrics are engaging and have a strong flow, with a catchy hook and memorable lines. The use of repetition adds to the song's appeal, and the lyrics effectively convey the artist's emotions and experiences.
+
+Language and Wordplay: 3/5
+While the lyrics are well-written, the use of wordplay and metaphors could be more extensive. The song primarily relies on straightforward language and storytelling to convey its message.
+
+Originality/Uniqueness: 3/5
+The song's concept is not entirely original, as it draws on familiar themes of success, wealth, and street life. However, the artist's personal experiences and perspective give the song a unique touch.
+
+Memorability: 4/5
+The song's catchy hook and repetitive elements make it easy to remember. The strong beat and flow also contribute to its memorability.
+
+Achievement Score: Yes
+Given the strong lyric quality, memorability, and the artist's ability to convey emotions and experiences effectively, it is likely that the artist will have a high achievement score three years from now. The artist's unique perspective and storytelling ability could contribute to their success in the future.

@@ -1,0 +1,101 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will rate them according to the categories you've mentioned.
+AIudio Xplore
+@aiudioxplore
+Look back at it
+She ain't never do this before, but she good at it
+Said she never made love, but she good at it (she good at it)
+She make a nigga feel good when I look at it (yeah)
+I get goosebumps when I look at it
+Oh, girls just wanna have fun with it
+Oh, the girls just wanna have fun with me (fun with me)
+These girls ain't really no good for me, yeah
+
+Ddrat, da-da, da
+Drdat, da-da-da, da
+Ddrat, da-da-um-da
+Ddrat, da-da-da-um-da
+Yeah, got a new Benz that I ain't promotin', yeah
+All of my friends love money throw it
+Ddrat, da-da-da-um-da
+
+Let me tell you something 'bout my life
+And every single chain, and my diamond rings
+The way you walkin', the way you talkin', it's all because of me
+And the way I'm all on you, girl, you know it's true
+The way I speak is a melody
+Don't you ever think it's another me
+Girl, on everything, it's a lot on me
+I cannot be seen, I cannot be takin' apologies
+Yeah, they proud of me 'cause that bag on me
+Yeah they after me, I got racks on me
+Got the stash on me, think they gassin' me
+Yeah, hoodie on low but I stay focused
+Yeah, it's hard to stay low when everybody notice, yeah
+
+Look back at it
+She ain't never do this before, but she good at it
+Said she never made love, but she good at it
+She make a nigga feel good when I look at it
+I get goosebumps when I look at it
+Oh, girls just wanna have fun with it
+Oh, the girls just wanna fun with me (fun with me)
+These girls ain't really no good for me, yeah
+
+Ddrat, da-da, da
+Drdat, da-da-da, da
+Ddrat, da-da-um-da
+Ddrat, da-da-da-um-da
+Yeah, got a new Benz that I ain't promotin', yeah
+All of my friends love money throw it
+Ddrat, da-da-da-um-da
+Ddrat, da-da-da-um-da
+
+Can I come by and vibe? (vibe)
+I get a different type of fly (fly)
+Hit a lick and split it with my guys (guys)
+Gettin' rich I'm really lit but I (I)
+Ain't shit I admit it but I try (try)
+If I'm wrong just tell me that I'm right
+Let me tell you something 'bout my life (my life)
+
+Look back at it
+Said she never made love, but she good at it
+I get goosebumps when I look at it
+All the girls just wanna have fun with me
+These girls ain't really no good for me
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3
+The lyrics are straightforward, with a focus on the artist's success and lifestyle. There isn't much depth or complexity to the storytelling, but the lyrics do convey the artist's confidence and pride in their achievements.
+
+Language and wordplay: 3
+The language used is simple and direct, with some repetition for emphasis. There are a few instances of wordplay, such as "look back at it" and "girls just wanna have fun with me," but overall, the use of language is not particularly unique or creative.
+
+Originality/uniqueness: 2
+The themes of the song, such as success, money, and relationships, are quite common in the hip-hop and rap genres. The lyrics don't offer a fresh perspective or unique take on these topics, which makes them less original than other songs in the genre.
+
+Memorability: 3
+The song has a catchy hook and some repetitive elements that could make it memorable to listeners. However, the lack of depth and originality in the lyrics might make it less memorable in the long run compared to other songs in the genre.
+
+Yes or No: No
+Given the information provided, I predict that the artist will not have a high achievement score three years from now. While the song has some catchy elements, it lacks the depth and originality that could propel the artist to long-term success in the competitive world of hip-hop and rap.

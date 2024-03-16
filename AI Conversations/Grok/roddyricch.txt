@@ -1,0 +1,117 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I am ready for the lyrics. Please provide the set of lyrics for me to analyze.
+AIudio Xplore
+@aiudioxplore
+Pullin' out the coupe at the lot
+Told 'em fuck 12, fuck SWAT
+Bustin' all the bales out the box
+I just hit a lick with the box
+Had to put the stick in a box, mmh
+Pour up the whole damn seal, I'ma get lazy
+I got the mojo deals, we been trappin' like the '80s
+She sucked a nigga soul, got the Cash App
+Told 'em wipe a nigga nose, say slatt, slatt
+I won't never sell my soul, and I can back that
+And I really wanna know where you at, at
+
+I was out back where the stash at
+Cruise the city in a bulletproof Cadillac (Skrrt)
+'Cause I know these niggas after where the bag at (Yeah)
+Gotta move smarter, gotta move harder
+Nigga try to get me for my water
+I'll lay his ass down, on my son, on my daughter
+I had the Draco with me, Dwayne Carter
+Lotta niggas out here playin' ain't ballin'
+I done put my whole arm in the rim, Vince Carter (Yeah)
+And I know probably get a key for the quarter
+Shawty barely seen in double C's, I bought 'em
+Got a bitch that's looking like Aaliyah, she a model
+I got the pink slip, all my whips is key-less
+Compton, I'm about to get the key to the city
+Patek like the sea, forget it
+
+Pullin' out the coupe at the lot
+Told 'em fuck 12, fuck SWAT
+Bustin' all the bales out the box
+I just hit a lick with the box
+Had to put the stick in a box, mmh
+Pour up the whole damn seal, I'ma get lazy
+I got the mojo deals, we been trappin' like the '80s
+She sucked a nigga soul, got the Cash App
+Told 'em wipe a nigga nose, say slatt, slatt
+I won't never sell my soul, and I can back that
+And I really wanna know where you at, at, hah
+
+Hahaha, I been movin' 'em out
+If Steelo with me, then he got the blues in the pouch (Yeah)
+Took her to the forest, put the wood in her mouth
+Bitch don't wear no shoes in my house
+The private I'm flyin' in, I never wan' fly again
+I'll take my chances in traffic (Yeah)
+She suckin' on dick, no hands with it
+I just made the Rollie plain like a landing strip
+I'm a 2020 president candidate
+I done put a hundred bands on Zimmerman, shit
+I been movin' real gangster, so that's why she picked a Crip
+Shawty call me Crisco 'cause I pop my shit
+Got it out the mud, there's nothin' you can tell me, yeah
+When I had the drugs, I was street wealthy, yeah
+
+Pullin' out the coupe at the lot
+Told 'em fuck 12, fuck SWAT
+Bustin' all the bales out the box
+I just hit a lick with the box
+Had to put the stick in a box, mmh
+Pour up the whole damn seal, I'ma get lazy
+I got the mojo deals, we been trappin' like the '80s
+She sucked a nigga soul, got the Cash App
+Told 'em wipe a nigga nose, say slatt, slatt
+I won't never sell my soul, and I can back that
+And I really wanna know where you at, at
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Here's the analysis of the lyrics you provided:
+
+Lyric quality: The lyrics have a strong and consistent theme of street life, wealth, and power. The language is vivid and descriptive, with a mix of metaphors and slang. The lyrics are also quite catchy and memorable.
+
+Language and wordplay: The use of slang and colloquial language is prominent in these lyrics, which adds authenticity to the storytelling. There are several instances of wordplay, such as the line "She sucked a nigga soul, got the Cash App," which plays on the double meaning of "soul" and "sole."
+
+Originality/uniqueness: The lyrics are unique in their storytelling, with a focus on the narrator's experiences in the streets and their rise to power. The use of slang and vivid imagery adds to the originality of the lyrics.
+
+Memorability: The lyrics are quite memorable, with catchy phrases and a strong, consistent theme. The use of repetition in lines like "Pullin' out the coupe at the lot" and "Pour up the whole damn seal, I'ma get lazy" also contributes to the memorability of the lyrics.
+
+Overall, the lyrics have a strong focus on street life and power, with vivid language and catchy phrases that make them memorable. The use of slang and wordplay adds to the authenticity and originality of the lyrics.
+
+Yes or No: Yes, I believe the artist of these lyrics will have a high achievement score three years from now, based on the quality, originality, and memorability of the lyrics.
+
+AIudio Xplore
+@aiudioxplore
+Give the numerical rating for each category out of 5
+Grok
+
+@grok
+Here are the numerical ratings for each category:
+
+Lyric quality: 4
+Language and wordplay: 4
+Originality/uniqueness: 4
+Memorability: 4

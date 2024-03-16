@@ -1,0 +1,72 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics! Please provide the first set of lyrics, and I will provide my analysis and prediction for that song.
+AIudio Xplore
+@aiudioxplore
+Scott Storch
+
+Ooh, so they think I wanna die, yeah
+'Cause my doors are suicide, yeah
+Bet my coffin would be nice, yeah
+Stud that bitch up with some ice, yeah
+These people don't want me alive, no
+They wanna play games with my life, oh
+The coupe doors are suicide, oh
+The coupe doors are suicide, oh-ah
+
+Said I hope you got my note bitch
+Ayy, I left it on the suicide door bitch
+Yeah, and you left it on the floor bitch
+Ayy, rule number 1 never trust no bitch
+Get this green then smoke this green, gotta stay potent
+Pussy nigga talking shit but he ain't know shit
+Chicken noodle ass nigga, man, you boneless
+Yeah, I keep my ratchet, boy, you pole-less
+Wayy, throwing bands tonight
+Throwing bands tonight, shawty throwing bands tonight
+Throwing bands tonight, huh
+
+Ooh, so they think I wanna die, yeah
+'Cause my doors are suicide, yeah
+Bet my coffin would be nice, yeah
+Stud that bitch up with some ice, yeah
+These people don't want me alive, no
+They wanna play games with my life, oh
+The coupe doors are suicide, oh
+The coupe doors are suicide, oh-ah
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 2
+The lyrics are short and repetitive, with a focus on a single theme of defiance and self-importance. While the lines are simple, they do convey a sense of confidence and attitude that is appropriate for the Hip-Hop/Rap genre.
+
+Language and Wordplay: 2
+There is minimal wordplay in these lyrics, with the main focus being on rhyming words like "die" and "suicide." The language used is straightforward and lacks depth or complexity.
+
+Originality/Uniqueness: 1
+These lyrics do not offer anything particularly original or unique. The theme of defying critics and enemies is common in Hip-Hop/Rap music, and the lyrics do not present a fresh take on the subject.
+
+Memorability: 1
+Due to the repetitive nature of the lyrics and the lack of depth or complexity, it is unlikely that these lyrics will be particularly memorable.
+
+In conclusion, the overall score for this song is 1.5 out of 5.
+
+Will the artist have a high achievement score three years from now?
+No

@@ -1,0 +1,90 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will provide an honest review and prediction.
+AIudio Xplore
+@aiudioxplore
+Yeah
+Yeah
+Sugar Trap
+
+(Rule number 1)
+Don't worry about a bitch who never been in your place
+Always move in silence, never question your fate
+(Rule number 2)
+Always check in on your niggas, gotta make sure they straight
+If I'm getting money, then you know we all got a plate
+Since a baby in her tummy, mama knew I was great
+They can't play me like a dummy, they know what not to take
+Fuck these niggas, cause the money only thing I'ma chase
+Time is precious, that's the only thing I try not to waste
+She hatin' 'cause I'm up, you can tell on her face
+I been eating so much, I've been saying my grace
+When the times was rough, I would look up and pray
+Thank God I ain't have to smack a bitch today
+(Oh my fucking god)
+
+Smack a bitch today
+Thank God I ain't have to smack
+Yeah
+Smack a bitch today
+Thank God I ain't have to smack a bitch today
+Yeah, whoa
+
+Run up OG when I'm smoking my jay (Yeah!)
+New car too fast so i'm winning the race (Ha ha!)
+Blast off fast car cool breeze in your face (Whoa!)
+Don't hate on me bitch stay in your place (Lame)
+"You rap about an Audi too much" (Shut the fuck up)
+Because my Audi paid off bitch, hush! (Shut the fuck up)
+Why she be yelling so much?
+If i see you in the street,
+Bitch your ass in done!
+I don't need your opinion (I don't need it)
+Do what I fucking want (Do what I fucking want)
+You such a fucking chump (You such a fucking chump)
+Pockets are swoll' lump sum (Damn!)
+Bitch you a fucking bum (You a fucking bum!)
+See your ass is done (Your ass is done)
+
+Thank god I ain't–
+Thank god I ain't have to smack a bitch today
+Catch a case
+Punch that bitch right in her face
+
+Yeah!
+Sugar trap!
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 3.5
+The lyrics have a mix of braggadocious and introspective elements, but they lack a clear narrative or central theme. The use of profanity and slang may appeal to some listeners, but it might also be off-putting to others.
+
+Language and Wordplay: 2
+There isn't much wordplay or clever use of language in these lyrics. The rhymes are straightforward and predictable, with little variation or experimentation.
+
+Originality/Uniqueness: 2
+The themes and content of the lyrics are fairly common in the hip-hop genre, and there's not much that sets them apart from other similar songs.
+
+Memorability: 2
+The chorus is catchy and easy to remember, but the verses are not particularly memorable due to their lack of depth and complexity.
+
+Overall Score: 2.6
+
+Based on these lyrics alone, I predict that the artist will not have a high achievement score three years from now. However, there are many other factors that contribute to an artist's success, such as production quality, marketing, and live performances.

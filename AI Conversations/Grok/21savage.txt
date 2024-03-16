@@ -1,0 +1,138 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I'm ready for the lyrics! Please provide the first set of lyrics, and I'll provide my analysis and prediction.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+I understand. Please provide the first set of lyrics, and I'll provide my analysis and prediction based on the assumption that it's my first time seeing them.
+AIudio Xplore
+@aiudioxplore
+Ooh, ooh, oh, oh, oh, ow, ow
+Wow, wow, wow, ah, ow, ow, ow
+
+I buy a new car for the bitch (For real)
+I tear down the mall with the bitch (For real)
+You can't even talk to the bitch (No)
+She fucking with bosses and shit (On God)
+I pull up in 'Rari's and shit (Skrrr)
+With choppers and Harley's and shit (For real)
+I be Gucci'd down (Gucci)
+You wearing Lacoste and shit (Bitch)
+Yeah, Moncler, yuh, fur came off a bear, yuh (Yeah)
+Triple homicide, put me in a chair, yuh (In jail)
+Triple cross the plug, we do not play fair, yuh (On God)
+Got 'em tennis chains on and they real blingy (Bling)
+Draco make you do the chicken head like Chingy (Chingy)
+Walk in Neiman Marcus and I spend a light fifty (Fifty)
+Please proceed with caution, shooters, they be right with me (21)
+Bad bitch, cute face and some nice titties
+$7500 on a Saint Laurent jacket (Yeah)
+Bitch, be careful when you dumpin' your ashes (Bitch)
+I ain't no sucker, I ain't cuffin' no action (Nah)
+The skreets raised me, I'm a whole bastard (Wild)
+I bought a 'Rari just so I can go faster (Skrrr)
+Niggas tryna copy me, they playin' catch up (21)
+I might pull up in a Ghost, no Casper (21)
+I been smoking gas and I got no asthma
+
+I got 1-2-3-4-5-6-7-8 M's in my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+I got 1-2-3-4-5-6-7-8 shooters ready to gun you down, yeah (Fast)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+
+Yeah, dawg, huh—yeah—, nah for real, dawg (21)
+Straight up out the 6, now got a house in the Hills, dawg (21)
+Wanna see a body, nigga? Get you killed, dawg (Wet)
+Wanna tweet about me, nigga? Get you killed, dawg (Wet)
+Killed dog, I'm a real dawg—21—, you a lil' dawg (21)
+Bill dog, want a bil', dog, chasing mil's, dawg (Yeah)
+Dunk right in your bitch like O'Neal, dawg (Wet)
+Plus I shoot like Reggie Mill', dawg (21)
+Chopper sting you like a eel, dawg (Fast)
+
+I got 1-2-3-4-5-6-7-8 M's in my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+I got 1-2-3-4-5-6-7-8 shooters ready to gun you down, yeah (Fast)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+
+Ruler clip—umm—, sent a ruler hit
+Pull up on yo' bitch, she say that I got a ruler dick
+Spray your block down, we not really with that ruh-rah shit
+Glock cocked now, I don't really give no fuck 'bout who I hit
+Yeah, yo' bitch, she get jiggy with me, keep that Siggy with me
+Bitch, I'm Mad Max, you know I got Ziggy with me
+Keep a mad mag in case a nigga wanna get busy with me
+'Rari matte black and I got a Bentley with me
+
+I got 1-2-3-4-5-6-7-8 M's in my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+In my bank account, yeah (On God)
+I got 1-2-3-4-5-6-7-8 shooters ready to gun you down, yeah (Fast)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+Ready to gun you down, yeah (On God)
+
+$7500 on a Saint Laurent jacket
+Bitch, be careful where you dumpin' your ashes
+I ain't no sucker, I ain't cuffin' no action
+The streets raised me, I'm a whole bastard
+
+Hip-Hop/Rap
+Grok
+
+@grok
+I'm not familiar with these lyrics. I'll provide my analysis and prediction based on the assumption that it's my first time seeing them.
+
+Lyric quality: 3.5/5
+The lyrics have a consistent theme of flaunting wealth, power, and sexual prowess. While they effectively convey the artist's braggadocious attitude, they lack depth and creativity in some parts, relying heavily on repetitive phrases and cliches.
+
+Language and wordplay: 3/5
+The language is straightforward and aggressive, but there's not much wordplay or clever use of language. The lyrics rely more on shock value and explicit content rather than intricate wordplay.
+
+Originality/uniqueness: 2/5
+These lyrics don't bring anything particularly new or unique to the hip-hop/rap genre. The themes of wealth, power, and sexual prowess are common in this genre and have been explored by many artists before.
+
+Memorability: 2.5/5
+While the repetitive nature of some phrases might make them stick in the listener's mind, the overall lack of depth and originality makes the lyrics less memorable.
+
+Prediction: No
+Given the lack of originality and depth in these lyrics, I predict that the artist might not have a high achievement score three years from now. However, success in the music industry is influenced by various factors, including the artist's ability to evolve and adapt, so it's not a definitive prediction.

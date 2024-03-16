@@ -1,0 +1,86 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I'm ready for the lyrics! Please provide the first set of lyrics you'd like me to review, along with the genre.
+AIudio Xplore
+@aiudioxplore
+I'm Lil Tay-K, I don't think you want no action
+You want action, you get turned into past tense
+Your boys deep? Well let's get to subtractin'
+Smith and Wesson made my .9 with some compassion
+
+Fuck a beat, I was tryna beat a case
+But I ain't beat that case, bitch I did the race
+Beat it up, where I nut? Shorty face
+Eli blast crackin' 4s like a vase
+Pop a nigga then I go out my way
+Do the dash then I go out the way
+Rob a nigga shoes, rob a nigga lace
+We tryna see a hunnit bands in our face
+
+Fuck a beat, I was tryna beat a case
+But I ain't beat that case, bitch I did the race
+Beat it up, where I nut? Shorty face
+Eli blast crackin' 4s like a vase
+Pop a nigga then I go out my way
+Do the dash then I go out the way
+Rob a nigga shoes, rob a nigga lace
+We tryna see a hunnit bands in our face
+
+Pimp gon' be eatin' good noodles every day
+Bitch I'm drawin' doodles, Tay-K paint the way
+Choppa turn your dudies into fish fillet
+I woke up too moody, who gon' die today?
+Shoot a fuckboy in his motherfuckin' face
+We cooking up boy, you don't wanna go dat way
+Gotta go dat way, you get robbed for your rackades
+Gotta go dat way, boy you not gon' be happy
+I tote 50s, I'm a shooter like Young Pappy
+Bitch try to rob, we make her dance, Michael Jackson
+We was plottin', y'all was tryna get the pack in
+Get the pack in, you get robbed for a fraction
+I'm Lil Tay-K, I don't think you want no action
+You want action, you get turned into past tense
+Your boys deep? Well let's get to subtractin'
+Smith and Wesson made my .9 with some compassion
+
+Fuck a beat, I was tryna beat a case
+But I ain't beat that case, bitch I did the race
+I'm gon' shoot bitch, without a debate
+I'm gon' shoot, you can see it in my face
+Fuck a beat, I was tryna beat a case
+But I ain't beat that case, bitch I did the race
+
+See it in my mothafuckin' face
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 4
+The lyrics are engaging and have a strong narrative, with vivid imagery and a consistent theme of defiance and street life. The use of wordplay and metaphors is effective, adding depth to the storytelling.
+
+Language and wordplay: 4
+The language is raw and powerful, reflecting the artist's background and experiences. The use of slang and regional expressions adds authenticity to the lyrics. Wordplay is present, but it could be more complex and varied.
+
+Originality/uniqueness: 3
+While the themes of the lyrics are not entirely unique within the hip-hop genre, the artist's personal experiences and perspective bring a level of originality to the song. The lyrics could benefit from exploring more unique angles or ideas to stand out further.
+
+Memorability: 4
+The catchy hooks, strong storytelling, and vivid imagery make the lyrics memorable. The song's chorus and memorable lines, such as "Fuck a beat, I was tryna beat a case / But I ain't beat that case, bitch I did the race," contribute to its memorability.
+
+Yes, the artist could have a high achievement score three years from now, based on the strength of these lyrics and their potential for resonating with listeners. However, success in the music industry is influenced by many factors, including the artist's ability to consistently produce quality music and their overall image and marketing.

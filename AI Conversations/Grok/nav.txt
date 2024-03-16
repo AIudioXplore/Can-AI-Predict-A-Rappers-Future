@@ -1,0 +1,112 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I'm ready for the lyrics. Please provide them, and I'll give you my honest evaluation.
+AIudio Xplore
+@aiudioxplore
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+
+Trade my Honda to a Bentley
+Now these fuckboys wanna end me
+Ammunition, I got plenty
+I squeezed it till it's empty
+My haters, they resent me
+Never checking what they send me
+Don't touch me, I ain't friendly
+I'm driving foreigns, I ain't renting
+Your career is stuck on pending
+The corner what I'm bending
+You're thinking about lending
+My money I ain't sending
+You can't get a penny
+You wanna see me fail because I'm balling
+You a fake and we ain't got nothing in common
+You didn't pick up when you saw me calling
+So you wouldn't catch me if you saw me falling
+Be careful who you shit on, they might make it, you never know
+Don't try to come around me if you wasn't here before
+You say you need some tickets, wanna see me at my show
+I put my bitch in VIP, I put you on the floor
+
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+
+I'm rolling off a bean and I'm stoned
+I just did a interview with Rolling Stone
+My teachers used to call my momma on the phone
+I failed in all my classes, hated going home
+Got-Got a lot of problems that I handle on my on
+Remember making beats and feeling stuck inside my home
+And now when I come home, I'm fucking every bitch I know
+I just show my chain off to Lil Uzi on the phone
+I feeling in my zone, I took two 30's to the dome
+I heard they pitch they shit up just so they can match my tone
+I'm balling, you can't stand it how I keep you on your toes
+No motion picture money rewinds in my video
+When I'm in my city, I feel like I'm Rambo
+My bro like a mechanic, always keep the hammer close
+Do I believe in heaven? To be honest, I don't know
+But I believe in Ghosts and I believe in Lambo's
+
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+I was made for this shit, rookie of the year
+I wouldn't show up for the freshman list
+Your swag expired, you ain't fresh like this
+Shit on all my haters, I'ma make them pissed
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 3
+The lyrics present a mix of braggadocious and self-assured statements with some storytelling elements. However, they lack depth and complexity, relying heavily on common hip-hop tropes.
+
+Language and Wordplay: 2
+There are some instances of wordplay, such as "Your career is stuck on pending / The corner what I'm bending," but overall, the language and wordplay are not particularly impressive or memorable.
+
+Originality/Uniqueness: 2
+The themes and ideas expressed in the lyrics are not particularly original, as they follow common hip-hop tropes and focus on success, haters, and material possessions.
+
+Memorability: 2
+While the chorus is catchy and easy to remember, the rest of the lyrics lack memorable lines or standout moments that would make them truly unforgettable.
+
+In conclusion, the lyrics present an average performance in most categories, with room for improvement in terms of originality and depth.
+
+As for the artist's future success, it's difficult to make an accurate prediction based solely on these lyrics. The artist seems confident and ambitious, but success in the music industry depends on many factors beyond lyrics, such as production quality, marketing, and the artist's ability to adapt to changing trends. That said, I would predict a moderate level of success for this artist in the future, but not necessarily a high achievement score.
+AIudio Xplore
+@aiudioxplore
+Answer only yes or no for your prediction given your opinion. Those are your only two options
+Grok
+
+@grok
+No

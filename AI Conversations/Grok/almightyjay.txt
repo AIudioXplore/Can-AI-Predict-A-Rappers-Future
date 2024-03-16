@@ -1,0 +1,127 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics, and I will provide my honest opinion on the categories and prediction. Please provide the first set of lyrics.
+AIudio Xplore
+@aiudioxplore
+Yeah-yeah
+Yeah, uh-uh-uh-uh
+
+Trappin' out a '03, gotta keep it low-key
+Plug just called, he got the pints and a OG
+Ballin' like Ginóbili, your bitch in the nose bleeds
+Parkin' lot pimpin' at the club
+Me and my niggas tryna
+
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+We tryna bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+
+Trappin' out a '03, gotta keep it low-key
+Plug just called, he got the pints and a OG
+Ballin' like Ginóbili, your bitch in the nose bleeds
+Parkin' lot pimpin' at the club
+Me and my niggas tryna
+
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+We tryna bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+
+Hunnids on hunnids, nigga, bring out the blue cheese
+Red bone bitch, got her trappin' in her two-piece
+100 thousand new pieces, gave away the loose-leaf
+Balenciaga runners, shit ain't came with no shoe strings
+All this damn money on me, keep on having mood swings
+New Glock, green dot, sippin' on some clean Wock'
+Ran off on the plug, sent my swiper with a green dot
+It's up with everybody, we ain't runnin' way from no opp
+Got 'em gangsta bitches pull up, flexin' in a droptop
+And she get her own bread, nigga (Own bread, nigga)
+I just got 20 thousand dollars from a show, don't trip
+I'ma put that shit on yo head, nigga
+Remember when the bitches used to flex on me
+Now I fuck a lot of bitches in my bed, nigga
+Ten niggas actin' like they gon' do sum (Hold on)
+Now that's ten dead niggas (Ten dead niggas)
+Real big business, we ain't playin' on no kid shit
+Big, big racks like I got them playin' tennis
+Want a million dollars? Nigga, go sell 10 bricks
+I know she a ho 'cause she got a second t— (Uh-uh)
+I ain't even gon' say dat (Say dat)
+I remember ridin' in a Lexus
+Now I'm countin' racks inside a Maybach (Skrrt, skrrt)
+And we spend money on fast shit, nigga
+Took the whole projects to the muhfuckin' racetrack (On God)
+
+Trappin' out a '03, gotta keep it lowkey
+Plug just called, he got the pints and a OG
+Ballin' like Ginóbili, your bitch in the nose bleeds
+Parkin' lot pimpin' at the club
+Me and my niggas tryna
+
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+We tryna bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+
+Trappin' out a '03, gotta keep it lowkey
+Plug just called, he got the pints and a OG
+Ballin' like Ginóbili, your bitch in the nose bleeds
+Parkin' lot pimpin' at the club
+Me and my niggas tryna
+
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+We tryna bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+Bring out the hoochies
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3
+The lyrics have a consistent theme and structure, but they lack depth and complexity, relying heavily on repetitive phrases and simple rhymes.
+
+Language and wordplay: 2
+There's not much wordplay or clever use of language in these lyrics. The vocabulary is limited, and the rhyming scheme is basic.
+
+Originality/uniqueness: 2
+These lyrics don't present anything particularly original or unique. The subject matter is typical of the genre and doesn't offer any new perspectives or ideas.
+
+Memorability: 3
+The repetitive nature of the lyrics and the catchy hook make them somewhat memorable, but the lack of depth and originality may limit their long-term impact.
+
+Prediction: No
+Based on these lyrics alone, I predict that the artist will not have a high achievement score three years from now. While the lyrics have some catchy elements, they lack depth and originality, which may hinder the artist's long-term success.

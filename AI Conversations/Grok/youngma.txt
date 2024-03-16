@@ -1,0 +1,122 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I'm ready for the lyrics! Please provide them, and I'll provide my analysis and prediction.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+Understood. Please provide the lyrics, and I'll provide my analysis and prediction.
+AIudio Xplore
+@aiudioxplore
+It's that big drip!
+Zombie on the track
+I got a bunch of niggas in the studio
+That's gang-gang though (facts)
+Everybody good over there, you heard?
+Uh, ayy, uhh
+
+I never been a hater (never that)
+I just, stick to my paper like a stapler
+Yellow bone smoking purple, LA Lakers
+If she give me pussy on a wake up
+Double cup of carrot juice
+Oh, that's my savage juice
+I just copped an Audemar
+Oh, and a Patek too
+Dripping in that iceberg
+Oh, in that Kappa too
+Ayy bro, don't you cuff that hoe
+'Cause I done had her too (I done had her)
+They say that they packin', oh we packin' too (Oh we packin' too)
+Run up like what's poppin' and what's brackin' too (Brackin' too)
+Said I would get rich and made it happen too (I made it happen too)
+Take a picture with your bitch and tag her too (I gotta tag her too)
+Savage mode (Savage mode)
+Rack it and roll (Rackin it and roll)
+Clappin' a hoe (Clappin' a hoe)
+Now you can go (Now you can go)
+She poppin' a bean (Poppin' a bean)
+Licking on me
+Off-White, off night, cookies and cream
+
+Ooh, ooh
+That's that big drip (That's that big drip)
+Big wrist (Ooh)
+Big body, big whips (Ooh)
+Big Glocks (Ooh)
+Big guap, big notch (Ooh)
+Big goons (Ooh)
+Small problems, big moves (Ooh)
+
+Ooh
+Sauce it up (Sauce it up)
+All this drip, I could fuck around and wash him up (Have him washed up)
+Hellcat sound like Mufasa when I start it up
+That's a wide-body, bitch it's hard to park it up (hard to park)
+Uh, buss it like a baby leg, spark it up (Spark it up)
+Homie tuck your chain it don't spark enough (It don't spark enough)
+(Ayy, tuck that shit, man)
+Ayy, homie tuck your chain it don't spark enough
+(Ayy, tuck that shit, man)
+(Like what you doin'? Fuck this nigga doin' bro?
+This nigga got Cubic zirconia stones, man
+Nigga really tryna stunt
+My nigga you a lil nigga, you heard? You a little homie)
+(You should get your money back)
+Get your money back
+Double cup a Hennessy we call it money-gnac (that Henny)
+Suwoo!
+Where all of my bloodies at?
+I took her to the crib and I had fun with that (I fucked her)
+Now come and get your mother back, I'm done with that (your mother)
+Yo, I just copped a pocket rocket (Grrr)
+For all you niggas pocket watching (Why you watchin' me?)
+Why your rollie tick-tick-tocking? (Why your rollie tick?)
+Ayy, uh, I fuck her during tax season, perfect timing (Perfect timing)
+I bagged your bitch in Fashion Nova no designer (no designer)
+Uh, man I like them tatted bitches, "Hi, Kehlani" (Kehlani)
+I woke up in that pussy, her new name Bugatti (Bugatti)
+Bitch, I got that drip, my new name Tsunami
+
+Ooh, ooh
+That's that big drip (That's that big drip)
+Big wrist (Ooh)
+Big body, big whips (Ooh)
+Big Glocks (Ooh)
+Big guap, big notch (Ooh)
+Big goons (Ooh)
+Small problems, big moves (Big moves)
+
+Yeah, I'm Young M.A. but she call me papi (She call me papi, she call me papi, I call her mami)
+Yeah, I'm Young M.A. but she call me papi (Tati)
+Zombie on the track
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3/5
+Language and wordplay: 3/5
+Originality/uniqueness: 3/5
+Memorability: 3/5
+
+Reasoning: The lyrics are average in terms of quality, language, and originality. The song doesn't seem to have any particularly unique or standout elements, but it's still a decent representation of the hip-hop/rap genre. The lyrics are somewhat memorable, but not exceptionally so.
+
+Prediction: No, I don't think the artist will have a high achievement score three years from now.

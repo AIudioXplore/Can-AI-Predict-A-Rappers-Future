@@ -1,0 +1,217 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I am ready for the lyrics. Please provide the lyrics for the first song you'd like me to analyze.
+AIudio Xplore
+@aiudioxplore
+AGAIN, ACT AS IF YOU DO NOT KNOW THE ARTIST OR IF IT IS YOUR FIRST TIME SEEING THE LYRICS. I want your honest numerical opinions on each category along with your prediction. Okay?
+Grok
+
+@grok
+Yes, I understand. Please provide the lyrics for the first song you'd like me to analyze, and I will provide my honest numerical opinions on each category along with my prediction.
+AIudio Xplore
+@aiudioxplore
+Swervo, ayy
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+G Swervo, I keep a meat roll
+Dracos under the peacoat
+Heard the police was looking for me though
+But I'm on a PJ with Squeezo
+Remember I was just living illegal
+Now the kids look at me like a hero
+Told them I was just like 'em once before
+Now my account got some commas and zeros
+We ain't living on welfare no more
+Im eating steak at the bistro
+Foreign coupe with a red head lil ho
+Lemme pull on her hair while she deepthroat
+And I'm from Chiraq where it go down
+Young nigga sheisty and low down
+I'ma pull up and aim at your forehead
+I took a foot shot with a four-oh round
+Yeah you know I bounce back with that lil shot
+Shit if you ask me it was a good shot
+I'm from the 9, sendin' shots straight to the 5
+Yeah I'ma call it a hook shot
+And when I ride, 40 Glock right by my side
+Fly past your whip, get your hood shot
+Find out where a nigga hang, slide with the gang
+Fuck around get your whole hood shot
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+Used to eat fried baloney, now I'm eating Rigatoni
+G Wag' with my homies, might ride by my lonely
+Two door with my bitch, me, her, and my stick
+She tryna suck my dick, we got limo tint
+And the Posto lit, AC out the vent
+Traphouse pay the rent, P serves off the Sprint
+Rap pay my mama rent, YouTube pay my ho rent
+Merch will pay your ho rent, iTunes pay some more shit
+Humble Beast, that's Herbo, Swervo talk that dope shit
+Swervo talk that cash shit, money in that bag shit
+Spent two K for these Versace glasses, on my swag shit
+They call me Swervo 'cause I did that when I crashed my last whip
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Swervo, ayy
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+G Swervo, I keep a meat roll
+Dracos under the peacoat
+Heard the police was looking for me though
+But I'm on a PJ with Squeezo
+Remember I was just living illegal
+Now the kids look at me like a hero
+Told them I was just like 'em once before
+Now my account got some commas and zeros
+We ain't living on welfare no more
+Im eating steak at the bistro
+Foreign coupe with a red head lil ho
+Lemme pull on her hair while she deepthroat
+And I'm from Chiraq where it go down
+Young nigga sheisty and low down
+I'ma pull up and aim at your forehead
+I took a foot shot with a four-oh round
+Yeah you know I bounce back with that lil shot
+Shit if you ask me it was a good shot
+I'm from the 9, sendin' shots straight to the 5
+Yeah I'ma call it a hook shot
+And when I ride, 40 Glock right by my side
+Fly past your whip, get your hood shot
+Find out where a nigga hang, slide with the gang
+Fuck around get your whole hood shot
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+Used to eat fried baloney, now I'm eating Rigatoni
+G Wag' with my homies, might ride by my lonely
+Two door with my bitch, me, her, and my stick
+She tryna suck my dick, we got limo tint
+And the Posto lit, AC out the vent
+Traphouse pay the rent, P serves off the Sprint
+Rap pay my mama rent, YouTube pay my ho rent
+Merch will pay your ho rent, iTunes pay some more shit
+Humble Beast, that's Herbo, Swervo talk that dope shit
+Swervo talk that cash shit, money in that bag shit
+Spent two K for these Versace glasses, on my swag shit
+They call me Swervo 'cause I did that when I crashed my last whip
+
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+Your bitch wanna fuck 'cause I'm Swervo
+I drive nuts 'cause I'm Swervo
+Got the whip with the clutch and the turbo
+Spent six bucks on a fur coat
+Swervo, Swervo, Swervo, Swervo
+Swervo, Swervo, Swervo, Swervo
+My name's Swervo 'cause I be the G (G Herbo)
+Used to do shows for a G
+Came from toting gats over east
+I'ma spend thirty racks on a piece
+
+AIudio Xplore
+@aiudioxplore
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+Grok
+
+@grok
+Lyric Quality: 4
+The lyrics have a good flow and rhythm, with a catchy hook in the chorus. They effectively convey the artist's message and attitude, but there is some room for improvement in terms of depth and complexity.
+
+Language and Wordplay: 3
+The lyrics contain some clever wordplay and use of slang, which adds to the song's appeal. However, there is not a wide variety of language techniques or particularly innovative wordplay, so the score is average.
+
+Originality/Uniqueness: 3
+While the lyrics effectively capture the artist's style and persona, they do not break new ground in terms of subject matter or approach. The lyrics follow a well-trodden path in the genre, so the score is average.
+
+Memorability: 4
+The catchy chorus and repetitive elements make the song memorable, and the lyrics are easy to follow and sing along to. This contributes to the song's potential for success and staying power.
+
+Overall, the song has a strong foundation and is likely to be well-received by fans of the genre, but it may not stand out as particularly groundbreaking or innovative.
+
+As for the artist's future success, it is difficult to predict with certainty based on these lyrics alone. However, I believe that the artist has potential and could achieve a high achievement score in three years, given the right promotion, marketing, and continued growth in their music. So, my answer is "Yes."

@@ -1,0 +1,18 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.env
+.cache
+*.xlsx
+*__pycache__/
+venv/
+.ipynb_checkpoints/
+
+# Exclude all files and subdirectories in Scrappers/
+Scrappers/*
+
+# But include spotify_scrapper.py/kworb_scrapper.py
+!Scrappers/spotify_scrapper.py
+!Scrappers/kworb_scrapper.py
+

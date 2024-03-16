@@ -1,0 +1,101 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I'm ready for the lyrics. Please provide the first set of lyrics and the genre, and I will provide my analysis and prediction.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+Understood. Please provide the first set of lyrics and the genre, and I will provide my analysis and prediction based on the assumption that it's my first time seeing them.
+AIudio Xplore
+@aiudioxplore
+Oh, oh, oh-oh
+Oh, oh, oh-oh
+Oh, oh, oh-oh, oh-oh, oh-oh
+
+We couldn't turn around till we were upside down
+I'll be the bad guy now, but know I ain't too proud
+I couldn't be there even when I try
+You don't believe it, we do this every time
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+Let go, I got a feeling that it's time to let go
+I said so, I knew that this was doomed from the get-go
+You thought that it was special, special
+But it was just the sex though, the sex though
+And I still hear the echoes (The echoes)
+I got a feeling that it's time to let it go, let it go
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+Maybe you don't understand what I'm going through
+It's only me, what you got to lose?
+Make up your mind, tell me, what are you gonna do?
+It's only me, let it go
+
+Seasons change and our love went cold
+Feed the flame 'cause we can't let go
+Run away, but we're running in circles
+Run away, run away
+I dare you to do something
+I'm waiting on you again, so I don't take the blame
+Run away, but we're running in circles
+Run away, run away, run away
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 4
+The lyrics are well-written and flow smoothly, with a good balance of repetition and variation. The song's theme of a tumultuous relationship is conveyed effectively.
+
+Language and wordplay: 3
+The language is straightforward and easy to understand, but there is not much wordplay or use of metaphors to add depth to the lyrics.
+
+Originality/uniqueness: 3
+While the theme of a troubled relationship is not unique, the song does have some interesting lines and a catchy chorus.
+
+Memorability: 4
+The song has a catchy hook and a good amount of repetition, which makes it quite memorable.
+
+Based on these lyrics and the genre provided, I predict that the artist will have a moderate level of success three years from now. The song has a good balance of catchy elements and relatable themes, which could help it gain popularity. However, the lack of strong wordplay or unique elements may limit its potential for long-term success.
+
+Yes, the artist has the potential for moderate success based on these lyrics.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no based on your prediction. Those are your only two options
+Grok
+
+@grok
+Yes

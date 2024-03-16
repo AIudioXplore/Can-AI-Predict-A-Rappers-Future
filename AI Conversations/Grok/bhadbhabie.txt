@@ -1,0 +1,88 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will give my honest opinion and ratings.
+AIudio Xplore
+@aiudioxplore
+Oh my God, Ronny
+
+White J's, white Porsche
+White wrist, white horse
+Hi, bich – hi, bich
+Hi, bich – hi, bich
+I do not sniff it or roll it (no)
+It do not drip when I pour it (no)
+I do not run, I reload it (no, no)
+I do not save it, I throw it
+White J's, white Porsche
+White wrist, white horse
+Hi, bich – hi, bich
+Hi, bich – hi, bich
+
+Please stop, please stop, please stop, please stop! (stop that shit)
+That fit look like you bought it at a kiosk (was it on sale though?)
+And they got the nerve to ask, "why she hot?" (she hot)
+Why you countin' all that money that we got?
+I ain't worried 'bout no basic bitches
+All y'all look like you still fly Spirit
+All y'all must not've looked in the mirror
+All y'all lookin' but the windows tinted like... (hi, bich)
+I don't know what made all y'all haters (hi, bitch)
+Play if you want, but you know I ain't playin' like...
+
+White J's, white Porsche
+White wrist, white horse
+Hi, bich – hi, bich
+Hi, bich – hi, bich
+I do not sniff it or roll it (no)
+It do not drip when I pour it (no)
+I do not run, I reload it (no, no)
+I do not save it, I throw it
+White J's, white Porsche
+White wrist, white horse
+Hi, bich – hi, bich
+Hi, bich – hi, bich
+
+Grown as hell and you still hatin'?
+I look at you and thank God, I made it like...
+Hi, bich
+Hi, bich
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3/5
+The lyrics are catchy and have a certain level of appeal, but they lack depth and are somewhat repetitive. The song seems to focus more on style and attitude rather than substance.
+
+Language and wordplay: 2/5
+There is not much wordplay or clever use of language in these lyrics. The rhymes are basic and straightforward, and the lyrics do not showcase any exceptional linguistic skills.
+
+Originality/uniqueness: 2/5
+The lyrics do not present anything particularly original or unique. The themes and content are common in many hip-hop and rap songs.
+
+Memorability: 3/5
+The song has a catchy hook and a repetitive chorus that may make it memorable for some listeners. However, the overall lack of depth and originality may limit its long-term memorability.
+
+In three years, I predict that the artist will have a moderate achievement score. While the song may be popular due to its catchy nature, its lack of depth and originality may limit its long-term success.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for your prediction based on your opinion. Those are your only two options
+Grok
+
+@grok
+No

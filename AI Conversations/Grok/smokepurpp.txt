@@ -1,0 +1,129 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I'm ready for the lyrics! Please provide the lyrics of the first song, and I'll rate them according to the given categories.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+I understand. Please provide the lyrics of the first song, and I'll rate them according to the given categories.
+AIudio Xplore
+@aiudioxplore
+Lil Purpp, Bless yo trap
+Bitch!
+Aye!
+(Oh my God, Ronny)
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+Paint on her face like she Doodle Bob too
+Wanted an Audi but then I bought two
+Wanted a thottie and then I fucked two
+Everything hot, gotta blow me like soup
+Jump in the Maz, I got blood on my boots
+I don't need friends I need blue hundreds, too
+Watch how the top disappear on the coupe
+
+I don't need hoes, I need bags
+I had the bank pull a millie out cash
+I do that shit just to brag
+I love to flex on my exes and laugh
+Bitch I go crazy and crash
+I hit two hundred I fuck up the dash
+I need a bitch with a whole lot of ass
+You niggas broke and yo pockets on fast
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+I get the money and flip it
+Money too tall, that bitch stand like a midget
+That Lil Purpp is the sickest
+1, 2, 3, 4 hoes and picked 'em
+Look at the curtains, go open the Cullinan
+Double my cup, yeah you know I got mud in it
+Fuck on your bitch because that's all the fun in it
+They try to copy the swag and they run with it
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+I need a bag, fuck a bitch
+Smokin' biscotti and cookie I mix (Smoke!)
+Pop me a perc, fuck a bitch (Perc!)
+She didn't want me, she want me again (Bitch!)
+If I step out they want pics
+Let the lil hoe suck the dick like a tit (Tit)
+Tell 'em I bust in her face
+I wanted an Audi but then bought a Wraith (Skrrt)
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 2
+The lyrics are simple, repetitive, and lack depth, focusing mainly on a few recurring themes like money, drugs, and women.
+
+Language and wordplay: 1
+There is minimal use of creative language or wordplay. The lyrics mostly consist of straightforward statements and lack poetic or metaphorical elements.
+
+Originality/uniqueness: 1
+The song's content is not particularly original or unique, as it covers themes that are common in many other hip-hop/rap songs.
+
+Memorability: 2
+The repetitive nature of the lyrics and the catchy hook might make the song somewhat memorable, but the lack of depth and originality may limit its long-term memorability.
+
+Based on these lyrics alone, I predict that the artist will not have a high achievement score three years from now. However, this prediction is based solely on the lyrics and does not take into account other factors that may influence the artist's success.

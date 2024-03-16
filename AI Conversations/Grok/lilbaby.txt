@@ -1,0 +1,150 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide the first set of lyrics, and I will rate them as instructed.
+AIudio Xplore
+@aiudioxplore
+When your wrist like this
+You don't check the forecast
+Every day it's gon' rain, yeah
+Made a brick through a brick
+I ain't whip up shit
+This pure cocaine, yeah
+From the streets, but I got a little sense
+But I had to go coupe, no brain
+Ain't worried 'bout you
+I'ma do what I do
+And I do my thang
+Do my thang
+
+Bought her brand new shoes, told her kick rocks
+Don't stand too close, diamonds, kickbox
+Stay in red mean go, so I don't stop
+I know they wish they could catch me but keep wishin'
+You think I done turn into a fiend for these bitches
+Tryin' to stuff as much as I can in these bitches
+Make your bitch fuck on my man it's no difference
+I ain't never pop no Xan, I sip sizzurp
+If I ever have to turn on the gang, I won't do it
+If I put it on a song, I seen it, or been through it
+I can't put it in my song, I know how the Fed goes through it
+And free all of the opps, but ain't no time gone
+Gave me momma ten bands, sent her to Cancun
+Got the crowd going dumb but I ain't no damn fool
+If I went in there and did it, then maybe you can too
+We done came from a long way from broke and sharing shoes
+
+When your wrist like this
+You don't check the forecast
+Every day it's gon' rain, yeah
+Made a brick through a brick
+I ain't whip up shit
+This pure cocaine, yeah
+From the streets, but I got a little sense
+But I had to go coupe, no brain
+Ain't worried 'bout you
+I'ma do what I do
+And I do my thang
+Do my thang
+
+When your wrist like this
+You don't check the forecast
+Every day it's gon' rain, yeah
+Made a brick through a brick
+I ain't whip up shit
+This pure cocaine, yeah
+From the streets, but I got a little sense
+But I had to go coupe, no brain
+Ain't worried 'bout you
+I'ma do what I do
+And I do my thang
+Do my thang
+
+Got a quarter million dollars in a book bag
+New Era, I'ma dope boy, nocap
+I'm livin' my best life for real
+Just left the dealership, no tag
+If we opposite it won't work, it won't last
+Be the 'opp-o-site' knocked off, toe tags
+Ain't been home in a month, got my hoe mad
+They need me in the trap but I, can't go back
+I jumped out of Porsche with a ho that's 'bout to snap
+I got M's in the bank, give a damn what they think
+Every vibe I ever shot my shot at, call it
+Everything you ever seen me riding in, bought it
+Big dog status, I ain't gotta sell drugs
+Put my craft in the rap then I took off, yeah
+New G Wagon, no key, this a push start
+I can hit the gas make it disappear
+
+When your wrist like this
+You don't check the forecast
+Every day it's gon' rain, yeah
+Made a brick through a brick
+I ain't whip up shit
+This pure cocaine, yeah
+From the streets, but I got a little sense
+But I had to go coupe, no brain
+Ain't worried 'bout you
+I'ma do what I do
+And I do my thang
+Do my thang
+
+When your wrist like this
+You don't check the forecast
+Every day it's gon' rain, yeah
+Made a brick through a brick
+I ain't whip up shit
+This pure cocaine, yeah
+From the streets, but I got a little sense
+But I had to go coupe, no brain
+Ain't worried 'bout you
+I'ma do what I do
+And I do my thang
+Do my thang
+
+Hip-Hop/Rap
+Grok
+
+@grok
+I understand that you've provided a set of lyrics for me to analyze, but I'm not quite sure what your specific request is. Do you want me to identify the artist or song, or are you looking for an analysis of the lyrics themselves? Please clarify your request so I can better assist you.
+AIudio Xplore
+@aiudioxplore
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+Grok
+
+@grok
+Lyric quality: 4
+The lyrics have a good flow and rhythm, with a consistent theme throughout the song. The language is simple and straightforward, making it easy to understand and relate to. The use of repetition and wordplay adds an interesting layer to the lyrics, keeping the listener engaged.
+
+Language and wordplay: 3
+The language used in the lyrics is straightforward and casual, reflecting the artist's style. The use of wordplay is present, but not to an exceptional degree. The lyrics rely more on their message and delivery than on complex linguistic techniques.
+
+Originality/uniqueness: 3
+The lyrics follow a familiar structure and theme in the genre, making them less unique. However, the artist's perspective and personal experiences do add a touch of individuality to the song.
+
+Memorability: 4
+The catchy hook, simple language, and relatable content make the song memorable. The repetition of certain phrases and the overall theme help to cement the song in the listener's mind.
+
+Yes, based on the lyrics alone, I think the artist has the potential for a high achievement score in three years. The combination of catchy hooks, relatable content, and a consistent theme make the song memorable and appealing to a wide audience.

@@ -1,0 +1,135 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will analyze and rate them according to the categories you've provided.
+AIudio Xplore
+@aiudioxplore
+(Got that real big energy)
+Hey daddy
+When you gonna stop playin'
+
+Bad bitch I could be your fantasy
+I can tell you got big dick energy
+It ain't too many niggas that can handle me
+But I might let you try it off the Hennessy
+Make 'em sang to this pussy like a melody
+And if your bitch ain't right I got the remedy
+It ain't too many niggas that can handle me
+Bad bitch I could be your fantasy
+
+Tell me how you want it
+3,2,1 and I'm on it
+Feel good don't it
+Hood bitch
+Fuck you in a bonnet
+I'mma bust it on the pole like Onyx
+I'm just being honest
+Pussy juicy
+Minute Maid
+But can't do it one minute mayne
+Not a side or a main
+I'm the only bitch he entertain
+Spendin' his
+Mine in the bank
+
+I like what I see
+A boss like you need a boss like me
+Daddy from the streets
+So he move low-key
+Tryna rock that mic like karaoke
+
+On the count of three
+Bad bitches get money
+Broke niggas to the left we don't want it
+I'm the one you bitches hate
+But they can't get past
+Pretty face, no waist
+And a big ol' ass (ha)
+
+Bad bitch I could be your fantasy
+I can tell you got big dick energy
+It ain't too many niggas that can handle me
+But I might let you try it off the Hennessy
+Make 'em sang to this pussy like a melody
+And if your bitch ain't right I got the remedy
+It ain't too many niggas that can handle me
+Bad bitch I could be your fantasy
+
+Got that real big energy
+Got that big big energy
+Got that real big energy
+Got that big big energy
+
+Yeah
+Tell me how you want it
+3,2,1 camera rolling
+Do it slow motion
+Real bitch
+Them other hoes phoney
+All that big talk
+Latto put 'em on it
+I'm just being honest
+Lingerie dolce
+Blindfold
+Tie me to the bed while we role-play
+Can't skip foreplay
+Kill the pussy cold case
+I'm a boss bitch
+But tonight we do it your way
+
+On the count of three
+Bad bitches get money
+Broke niggas to the left we don't want it
+If you ever see me broke
+I'm prolly rockin' a cast
+Pretty face, no waist
+With a big ol' bag (ha)
+
+Bad bitch I could be your fantasy
+I can tell you got big dick energy
+It ain't too many niggas that can handle me
+But I might let you try it off the Hennessy
+Make 'em sang to this pussy like a melody
+And if your bitch ain't right I got the remedy
+It ain't too many niggas that can handle me
+Bad bitch I could be your fantasy
+
+Got that real big energy
+Got that big big energy
+Gotthat real big energy
+Got that big big energy
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Okay, here are my ratings and analysis for the given lyrics:
+
+Lyric quality: 4
+The lyrics are well-written and have a clear theme of confidence, sex appeal, and female empowerment. The use of metaphors and wordplay is effective in conveying the message, and the overall flow of the lyrics is smooth and engaging.
+
+Language and wordplay: 4
+The use of slang and informal language in the lyrics adds to the authenticity and appeal of the song. The wordplay is clever, particularly in lines like "I'mma bust it on the pole like Onyx" and "Pretty face, no waist, and a big ol' ass." The repetition of certain phrases also adds to the catchiness of the song.
+
+Originality/uniqueness: 3
+While the lyrics are well-written and enjoyable, they do not necessarily break new ground in terms of originality or uniqueness. The themes of confidence and female empowerment are common in contemporary hip-hop and rap music.
+
+Memorability: 4
+The catchy lines and repetition of certain phrases make the lyrics quite memorable. The chorus, in particular, is likely to stick in the listener's head after hearing the song.
+
+Predictions: Yes
+Based on the lyrics and the genre provided, I believe that the artist has the potential to achieve high levels of success in the future. The confidence and attitude of the lyrics, combined with the catchy hooks and engaging wordplay, suggest that the artist has a strong understanding of what makes a song successful in the hip-hop and rap genre.

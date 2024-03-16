@@ -1,0 +1,120 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide the first set of lyrics, and I will analyze them according to the given categories.
+AIudio Xplore
+@aiudioxplore
+Weigh it no Reebok used to wear Fila
+But I earned my stripes like Adidas
+Stickin to the green like I'm Peta
+Keep a glock on me nigga I don't do da de-cock
+'98 Pops sellin crack in his Reebok's
+Gangsta hat to da right dats how he roc
+Baby mama call my phone she hot
+But back to the point fell in love with the SiLA
+
+Servin
+Servin servin
+Swervin
+Swervin swervin
+Servin
+Servin servin
+Swervin
+Swervin swervin
+
+I'm a real nigga no trader
+Fill up em with lead nigga don't get confused by the paper
+Niggas be misusing the paper
+Spendin money on these hoes niggas really be abusin the paper
+But I'ma tell you niggas what to do wit da cash
+Buy a lil ounce weigh it up in a bag
+.8 a gram sell that shit to ya last
+Re-up wit da profit go get you a bag
+
+Servin
+Servin servin
+Swervin
+Swervin swervin
+Servin
+Servin servin
+Swervin
+Swervin swervin
+
+Weigh it no Reebok used to wear Fila
+But I earned my stripes like Adidas
+Stickin to the green like I'm Peta
+Keep a glock on me nigga I don't do da de-cock
+'98 Pops sellin crack in his Reebok's
+Gangsta hat to da right dats how he roc
+Baby mama call my phone she hot
+But back to the point fell in love with the SiLA
+Bitch I go Coo Coo connected like a Bluetooth
+Nigga I dis my city I'll leave his blood on my new shoes
+Put yo bitch up on my bloc and make her pay dues
+I'ma get her naked in her tutu
+Bullets hit him now he need a test tube
+A scar like a permanent tattoo
+Keep the stick on me permanent bamboo
+If it's money on his head I'ma take it if the rent due
+
+Servin
+Servin servin
+Swervin
+Swervin swervin
+Servin
+Servin servin
+Swervin
+Swervin swervin
+
+Weigh it no Reebok used to wear Fila
+But I earned my stripes like Adidas
+Stickin to the green like I'm Peta
+Keep a glock on me nigga I don't do da de-cock
+'98 Pops sellin crack in his Reebok's
+Gangsta hat to da right dats how he roc
+Baby mama call my phone she hot
+But back to the point fell in love with the SiLA
+
+Swervin
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: The lyrics of this song have a strong focus on storytelling and personal experience, with vivid imagery and a consistent theme. The use of wordplay and metaphors adds depth to the narrative, making the lyrics engaging and memorable.
+
+Language and wordplay: The song incorporates various forms of wordplay, such as homophones (e.g., "SiLA" and "Coo Coo"), puns, and metaphors, which add to the overall quality of the lyrics and make them more interesting to the listener.
+
+Originality/uniqueness: While the song's subject matter (e.g., drug dealing and street life) is not entirely unique, the artist's personal perspective and storytelling style give the lyrics a distinctive feel. The use of specific brand names and pop culture references also adds a layer of originality to the song.
+
+Memorability: The catchy chorus, with its repetitive structure and rhythmic flow, makes the song easy to remember. The vivid and evocative imagery in the verses also contributes to the memorability of the lyrics.
+
+Based on the above analysis, here are my ratings for each category:
+
+Lyric quality: 4/5
+Language and wordplay: 4/5
+Originality/uniqueness: 3/5
+Memorability: 4/5
+
+As for the question of whether or not the artist will have a high achievement score in three years, it's impossible for me to predict with certainty. However, based on the quality of the lyrics and the potential for the song to be popular, it is possible that the artist could achieve a high level of success in the future.
+AIudio Xplore
+@aiudioxplore
+Answer only yes or no for the prediction based on your opinion. Those are your only two options
+Grok
+
+@grok
+Yes.

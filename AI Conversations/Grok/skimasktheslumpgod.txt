@@ -1,0 +1,97 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I'm ready for the lyrics! Please provide them, and I'll analyze and rate them accordingly.
+AIudio Xplore
+@aiudioxplore
+Woah, Heh
+ChaseTheMoney, ChaseTheMoney
+Bitch be for real, huh
+
+Let's make a deal, bitch be for real
+Is you off a pill? Okay
+Let's make a deal, Rumpelstiltskin (Hm)
+She wanna see my purple pickle up in the wind (Okay!)
+Chancletas off, bitch get in (Ayy, ayy)
+And if your nigga don't like me, hit chinny-chin-chin (Huh)
+Bitch, I'm hotter than a pepper, no mint (Huh)
+Big stepper, no stilts, big tilt, uh
+1K, bought my bitch a new kilt, uh (Yup)
+New skirt, I skrrt, big drift, uh (Yup)
+New grills, 10K, big lisp, uh
+Diamonds dancin' on my fist, no disc, uh
+Gimme lips, rock band like KISS, uh
+Remember days, me and X hittin' licks
+
+Guantanamera, we hit a lick on your bitch
+I'm a Goodfella, Maison Margiela my kick, uh
+I am faucet failure, my nigga, I got drip, uh
+Ashin' on your bitch, this that Pokémon trainer shit, uh
+Who's this? He should be in cockpit, uh
+'Cause I'm flyer than a fuckin' ostrich, uh (Okay)
+On my wood, that bitch won't give me polish, uh
+I'ma put my foot up in it, sock it
+Who's this? He should be in cockpit, uh
+'Cause I'm flyer than a fuckin' ostrich, uh
+On my wood, that bitch won't give me polish, huh
+I am constructor, that bitch I demolish, ayy
+
+Yes give me, a girl from Disney
+And a Happy Meal, pretty please don't gyp me
+On fries (Ketchup!), on the guys, uh-huh
+McDonalds 'cause they still sellin' pies, uh-huh
+Just bought a new suit, got mob ties, uh-huh
+Said he want beef, pull up, Five Guys, uh-huh
+Yes I'm fire, lil' different like pumpkin fries
+Um, hol' up, uh, where's my weed guys? (Huh?)
+
+Guantanamera, we hit a lick on your bitch
+I'm a Goodfella, Maison Margiela my kick, uh
+I am faucet failure, my nigga, I got drip, uh
+Ashin' on your bitch, this that Pokémon trainer shit, uh
+Who's this? He should be in cockpit, uh
+'Cause I'm flyer than a fuckin' ostrich, uh
+On my wood, that bitch won't give me polish, uh
+I'ma put my foot up in it, sock it
+Who's this? He should be in cockpit, uh
+'Cause I'm flyer than a fuckin' ostrich, uh
+On my wood, that bitch won't give me polish, huh
+I am constructor, that bitch I demolish, ayy
+
+ChaseTheMoney, ChaseTheMoney
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Okay, here are my ratings and analysis for the lyrics provided:
+
+Lyric quality: 4
+The lyrics have a consistent theme throughout the song, with a mix of braggadocious claims and pop culture references. The rhymes are mostly tight and the flow is catchy.
+
+Language and wordplay: 4
+The use of slang and colloquial language makes the song relatable and appealing to its target audience. There's a decent amount of wordplay, with lines like "I'm flyer than a fuckin' ostrich" and "On my wood, that bitch won't give me polish."
+
+Originality/uniqueness: 3
+While the lyrics have some unique lines and references, the overall theme of bragging and boasting is not new to the hip-hop/rap genre. However, the song does manage to stand out with its catchy hooks and memorable lines.
+
+Memorability: 4
+The chorus and some of the standout lines are quite memorable and have the potential to get stuck in listeners' heads. The song's structure and catchy flow also contribute to its memorability.
+
+As for the artist's future success, it is difficult to predict with certainty based on these lyrics alone. However, given the catchy nature of the song and its potential for memorability, I believe there is a good chance that the artist will have a high achievement score three years from now.
+
+Yes, I believe the artist will have a high achievement score three years from now.

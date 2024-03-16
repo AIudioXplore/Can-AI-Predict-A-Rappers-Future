@@ -1,0 +1,120 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I am ready for the lyrics. Please provide the lyrics and the genre, and I will provide my analysis.
+AIudio Xplore
+@aiudioxplore
+Ayy, if you got your motherfuckin' pepper steppers on, man
+Tie them hoes up tight 'til where you got no circulation in your ankles (You can't even walk, nigga)
+'Cause, 'cause vibe to the song, man, if you got your shit on, look (For real)
+
+Ayy, if you got that shit on, take it off
+Bitch, vibe to the song, from the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+Put this on TikTok, no, not like that, like this, watch
+From the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+Put this on TikTok
+
+Flip, flip, flip, run a nigga out his flip-flops
+Flop, flop, flop, crack a bitch off a TikTok
+Rock, rock, rock, don't stop like you runnin' from the cop, cop, cops
+Let this thing pop, pop at the opp, opp, opp
+I just got the drop, drop at a nigga drop-drop (Drop, drop)
+Stop and roll, grab the pole, let me know what you know
+
+If you got that shit on, take it off
+Bitch, vibe to the song, from the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+Put this on TikTok, no, not like that, like this, watch
+From the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+
+Put this on TikTok
+Ayy, do your stuff, pick it up, drop it down to the ground
+Round for round, pound for pound
+Make a sound like this sound - [clapping:]
+Round of applause for the cost
+Don't worry what it cost, Blueface, baby, I'm a boss
+If I lost, take a loss
+Get it back, got a crack
+Lift that ass with a jack
+Put a bitch on her back
+That's a fact, I'ma mack
+She gon' do it for a stack
+Stack it up, stack it up, grey cup, do your stuff
+Pussy wet like a tub
+We gon' do it in the shower for an hour
+
+From the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+Put this on TikTok, no, not like that, like this, watch
+From the left to the right
+From the front to the back then it's back to the right
+To the left, mop it up, clean it up
+Grey cup, do your stuff
+Take a sip then you dip with the hip-hop
+Put this on TikTok (TikTok)
+
+Hip-Hop/Rap
+Grok
+
+@grok
+I'm not quite sure what you're asking for here. Are you looking for an analysis of these lyrics or something else?
+AIudio Xplore
+@aiudioxplore
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+Grok
+
+@grok
+Lyric quality: 2
+The lyrics are repetitive and lack depth, focusing mainly on a catchy hook and dance instructions. The language and wordplay are not particularly clever or engaging.
+
+Language and wordplay: 1
+There is little to no use of wordplay or creative language in these lyrics. The song relies heavily on simple, repetitive phrases.
+
+Originality/uniqueness: 1
+The lyrics are not original or unique, as they follow a common theme in contemporary hip-hop and rap music, with a focus on dance and social media trends.
+
+Memorability: 3
+The repetitive nature of the lyrics and the catchy hook make them somewhat memorable, but the lack of depth and originality may limit their long-term impact.
+
+Overall, the lyrics score low in all categories, as they lack depth, originality, and creative language.
+
+Based on these lyrics alone, I predict that the artist will not have a high achievement score three years from now. The lack of originality and depth in the lyrics may limit the artist's long-term success. However, this is just a prediction based on the lyrics, and other factors, such as the artist's performance, marketing, and overall musical talent, may influence their future success.

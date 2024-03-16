@@ -1,0 +1,117 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics! Please provide the lyrics and the genre, and I will analyze and rate them as a music reviewer.
+AIudio Xplore
+@aiudioxplore
+She get cracked now
+She wanna fuck, uh, she get cracked now (Thank you, GC)
+Uh, like, what you wanna do? (What the fuck, Nima?)
+You wanna ride out?
+You wanna– alright
+You wanna ride out?
+And we ain't at the playground, but we can slide out
+You know I hit you from the back and make you wild out
+Yeah, ah
+
+Ayy, this ain't Wild 'N Out
+In the club with the cannon on me, I be wildin' out
+I just pulled up with the TEC like I be filin' out
+Your bitch want her doonies beat down, I'm finna pound her out
+I just stuffed a bitch on the road, I left a baggie in her
+Pops said he want some young cat, I let my daddy hit her
+Bitch swallow nut– damn
+Bitch swallow nut, watch kids, she my babysitter
+I can't jump from the top, I might die before I hit the ground
+Why you still lookin' for that bitch? She in the lost and found
+Forty thousand dollar grill, that's what it cost to smile
+I wonder how that quiet-ass weed got you coughin' loud
+Ayy, ain't no sample on this bitch, bro
+Like, it's a beat, like, ain't no sample on this bitch, bro
+Ain't shit for free, like, ain't no sample on this bitch, bro
+Orange chicken, I got samples in this bitch, bro
+Bitch want a BBL, let me see, I put a sample on this bitch first
+I got fired the first day that I missed work
+I sell rap, but I swear to God, I miss work
+Like I miss the first
+I want my money on the second if I miss the first
+It took two shots to make it like I missed the first
+How the fuck did you pull up to the motherfuckin' party and forget the Percs?
+
+Perc' 10, I just popped a Perc' 10
+Perc' 30, I just popped a Perc' 30, hmm
+Perc' 60, I just popped two Perc' 30s
+Perky dance, make me do my Perky dance, hmm
+Perky dance, make me do my Perky dance, hmm
+Perky dance, make me do my Perky dance, hmm
+Perky dance, make me do my Perky dance, hmm
+Perky dance, make me do my Perky dance, hmm
+
+Perky
+I just popped another Perky
+Yeah, I fell in love with Perkies
+Perc 30, I need Perkies
+Ah, I need Percs
+Ah, I need Percs
+Hmm, I need Percs
+Hmm, I need Percs
+Yeah, I need Percs
+Damn, ayy, I love Percs
+Ayy, I love Percocets
+Ayy, I love Percocets
+Ayy, I love Percocets
+I love Percocets
+I love Perc' and sex
+I love Perc' and sex
+I love Perc' and sex
+I love Perc' and sex
+I love Perc' and sex
+I love Perc' and sex
+I love having sex
+I love having sex
+I love having sex
+I love having sex
+I love having—
+Damn
+I lost my voice
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Based on the provided lyrics, I would rate the following categories:
+
+Lyric quality: 3
+The lyrics have a strong focus on rhyme schemes and wordplay, but they lack depth and meaningful content. The repetitive nature of some lines, such as "I love Perc' and sex" and "Perky dance, make me do my Perky dance," detracts from the overall quality.
+
+Language and wordplay: 4
+The lyrics showcase some clever wordplay, particularly with lines like "It took two shots to make it like I missed the first." However, the language is often crude and lacks sophistication.
+
+Originality/uniqueness: 2
+The subject matter of the lyrics is not particularly original, as it focuses on drugs, sex, and partying, which are common themes in many rap songs.
+
+Memorability: 3
+Some lines, like "I wonder how that quiet-ass weed got you coughin' loud," are memorable due to their humor and wordplay. However, the repetitive nature of other lines makes them less memorable.
+
+Taking these factors into consideration, I would say that the artist has a moderate chance of achieving high success in the future, but it is not guaranteed. Their ability to create catchy hooks and use humor in their lyrics could contribute to their success, but they will need to develop more depth and originality in their content to stand out in the competitive world of hip-hop.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for you prediction based on your opinion. Those are your only two options
+Grok
+
+@grok
+No.

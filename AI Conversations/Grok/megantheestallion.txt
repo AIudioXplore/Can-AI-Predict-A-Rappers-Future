@@ -1,0 +1,185 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide the lyrics and the genre, and I will provide a score for each category and my prediction for the artist's future success.
+AIudio Xplore
+@aiudioxplore
+I'm that bitch (Yeah)
+Been that bitch, still that bitch (Ah)
+Will forever be that bitch (Forever be that bitch)
+Yeah (Ayy, ah)
+
+I'm the hood Mona Lisa, break a nigga into pieces
+Had to X some cheesy niggas out my circle like a pizza (Yeah)
+I'm way too exclusive, I don't shop on Insta' boutiques
+All them lil' ass clothes only fit fake booties
+Bad bitch, still talking cash shit
+Pussy like water, I'm unbothered and relaxing
+I would never trip on a nigga if I had him
+Bitch, that's my trash, you the maid, so you bagged him, ah
+
+I'm a savage (Yeah)
+Classy, bougie, ratchet (Yeah)
+Sassy, moody, nasty (Hey, hey, yeah)
+Acting stupid, what's happening? (Woah, woah)
+Bitch, what's happening? (Woah, woah)
+Bitch, I'm a savage, yeah
+Classy, bougie, ratchet, yeah
+Sassy, moody, nasty, huh
+Acting stupid, what's happening?
+Bitch, what's happening? (Ayy, ah)
+
+Eat me and record it, but your edge-up all I'm showing (Ah)
+I keep my niggas private, so his AP all I'm showing (Baow)
+Beefing with you bitches really getting kinda boring
+If it ain't about the money, then you know I'm gon' ignore it
+I'm the shit, ooh (Ayy)
+I need a mop to clean the floor, it's too much drip, ooh (Too much drip, ooh)
+I keep a knot, I keep a watch, I keep a whip, ooh (I keep a whip, baow)
+Let's play a game, Simon says I'm still that bitch, ayy (Still that bitch)
+I'm still that bitch, yeah (Ah)
+
+I'm a savage
+Classy, bougie, ratchet (Yeah)
+Sassy, moody, nasty (Yeah)
+Acting stupid, what's happening? (What's up?)
+Bitch, what's happening? (What's up?)
+Bitch, I'm a savage, yeah
+Classy, bougie, ratchet, yeah (Bitch)
+Sassy, moody, nasty, huh
+Acting stupid, what's happening? (What's up?)
+Bitch, what's happening?
+
+Bitch, I'm lit like a match, ooh
+And any nigga I let hit is still attached, ooh
+That body right, but you know this pussy fat, ooh
+I drop a picture, now these bitches feel attacked, ayy
+Don't let that nigga gas you up and get you whacked, ooh
+I make a call and get a pussy nigga smacked, uh
+These bitches talkin' 'bout pulling up, well, where you at? Ooh
+I'm in a Lam', bitch, catch me if you can, ooh
+I'm kickin' bitches out they spot, Stalli' Chan, yeah (Ah, yeah)
+
+Niggas say I taste like sugar, but ain't shit sweet (Ah)
+Mwah
+Ayy, ayy, ooh, ooh, ooh, ooh, mwah
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Title: "I'm That Bitch"
+
+Lyrics:
+
+[Verse 1]
+I'm that bitch (Yeah)
+Been that bitch, still that bitch (Oh)
+Will forever be that bitch (Forever be that bitch)
+Yeah (Ayy, ah)
+
+I'm the hood Mona Lisa, break a nigga into pieces
+Had to X some cheesy niggas out my circle like a pizza (Yeah)
+I'm way too exclusive, I don't shop on Insta' boutiques
+All them lil' ass clothes only fit fake booties
+Bad bitch, still talking cash shit
+Pussy like water, I'm unbothered and relaxing
+I would never trip on a nigga if I had him
+Bitch, that's my trash, you the maid, so you bagged him, ah
+
+[Pre-Chorus]
+I'm a savage (Yeah)
+Classy, bougie, ratchet (Yeah)
+Sassy, moody, nasty (Hey, hey, yeah)
+Acting stupid, what's happening? (Woah, woah)
+Bitch, what's happening? (Woah, woah)
+Bitch, I'm a savage, yeah
+Classy, bougie, ratchet, yeah
+Sassy, moody, nasty, huh
+Acting stupid, what's happening?
+Bitch, what's happening? (Ayy, ah)
+
+[Chorus]
+Eat me and record it, but your edge-up all I'm showing (Ahh)
+I keep my niggas private, so his AP all I'm showing (Baow)
+Beefing with you bitches really getting kinda boring
+If it ain't about the money, then you know I'm gon' ignore it
+I'm the shit, ooh (Ayy)
+I need a mop to clean the floor, it's too much drip, ooh (Too much drip, ooh)
+I keep a knot, I keep a watch, I keep a whip, ooh (I keep a whip, baow)
+Let's play a game, Simon says I'm still that bitch, ayy (Still that bitch)
+I'm still that bitch, yeah (Oh)
+
+[Pre-Chorus]
+I'm a savage
+Classy, bougie, ratchet (Yeah)
+Sassy, moody, nasty (Yeah)
+Acting stupid, what's happening? (What's up?)
+Bitch, what's happening? (What's up?)
+Bitch, I'm a savage, yeah
+Classy, bougie, ratchet, yeah (Bitch)
+Sassy, moody, nasty, huh
+Acting stupid, what's happening? (What's up?)
+Bitch, what's happening?
+
+[Verse 2]
+Bitch, I'm lit like a match, ooh
+And any nigga I let hit is still attached, ooh
+That body right, but you know this pussy fat, ooh
+I drop a picture, now these bitches feel attacked, ayy
+Don't let that nigga gas you up and get you whacked, ooh
+I make a call and get a pussy nigga smacked, uh
+These bitches talkin' 'bout pulling up, well, where you at? Ooh
+I'm in a Lam', bitch, catch me if you can, ooh
+I'm kickin' bitches out they spot, Stalli' Chan, yeah (Oh, yeah)
+
+[Outro]
+(Mwah)
+Niggas say I taste like sugar, but ain't shit sweet (Oh)
+Mwah
+Ayy, ayy, ooh, ooh, ooh, ooh, mwah
+
+Genre: Hip-Hop/Rap
+AIudio Xplore
+@aiudioxplore
+You're only supposed to rate the lyrics with those categories I gave you and give a prediction
+Grok
+
+@grok
+I apologize for the misunderstanding. Here is my rating of the lyrics and prediction:
+
+Lyric quality: 4
+The lyrics are catchy, with a good flow and rhyme scheme. The use of repetition and wordplay adds to their appeal. However, some lines could be more creative and impactful.
+
+Language and wordplay: 3
+The lyrics make use of some clever wordplay, but it could be more consistent throughout the song. There are instances of simple language and straightforward phrasing.
+
+Originality/uniqueness: 3
+While the lyrics have a distinct attitude and style, they don't break much new ground in terms of content or structure. The overall theme and message are familiar within the genre.
+
+Memorability: 4
+The chorus is catchy and easy to remember, which contributes to the memorability of the song. However, some verses may not be as easily retained due to their similarity to other songs in the genre.
+
+Prediction:
+Based on the lyrics and the provided genre, I predict that the artist has a moderate chance of achieving a high level of success within the next three years. The lyrics have a strong attitude and style, but they could benefit from more originality and creativity to stand out in the competitive music landscape.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for the prediction based on your prediction. Those are the only two options
+Grok
+
+@grok
+Yes.

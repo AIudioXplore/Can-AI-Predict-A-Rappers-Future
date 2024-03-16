@@ -1,0 +1,81 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics! Please provide them, and I will analyze and rate the categories accordingly.
+AIudio Xplore
+@aiudioxplore
+Shh, shh, sheesh
+Ayy, ayy, ayy, all these pancake ass niggas, weird ass niggas, man
+What are all these niggas talkin' 'bout?
+Ice cream ass niggas
+Ayy (Ayy, sheesh)
+
+I keep a rocket in my pocket, socket called a pocket rocket
+If it's war, we ain't playin' games, bitch, we get it started
+I'm the man, clip it, keep a hundred, nigga, I'm a gunner
+When it's beef, we ain't playin' games, we hit you and yo' mama
+Know that choppa, that's that oppa stoppa, hit you and your pops
+I fell in love with all this fuckin' money, you in love with drama
+Say-say baby, I'm not Sosa baby, but I keep a llama
+Gonna pull up in a new i8, you ridin' in a Honda
+All these tattoos on my fuckin' body, she say I'm a hottie
+Why your girlfriend always wanna fuck me, wanna touch my body?
+We got all type of fuckin' guns, might even have a Tommy
+I remember them days in the jail, still free my nigga Ryan
+And free Chris though, 'member we was bouncin' out with .44's
+A nigga keep it silent in L.A. I keep a clip though
+'Cause no, I can't be lackin' in these streets, I keep a big pole
+And I can't have no nigga with me if they gon' snitch on us
+
+Hip-Hop/Rap
+Grok
+
+@grok
+I see you've provided me with lyrics from a song, but you haven't given me a specific task to perform. If you could clarify what you'd like me to do, I'd be happy to help. For example, you could ask me to analyze the lyrics, identify the artist, or find more information about the song.
+AIudio Xplore
+@aiudioxplore
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+Grok
+
+@grok
+Lyric quality: 3
+The lyrics have a decent flow and rhythm, but they lack depth and meaningful content. The song seems to focus on boasting and bragging about material possessions and status.
+
+Language and wordplay: 2
+The language is straightforward and the wordplay is limited. The lyrics rely on simple rhymes and repetitive phrases.
+
+Originality/uniqueness: 2
+The song's theme and content are not particularly original or unique, as they follow a common trend in hip-hop and rap music, focusing on wealth, status, and dissing "fake" or "weird" people.
+
+Memorability: 2
+While the song has a catchy beat and some memorable lines, the overall content and lack of depth make it less likely to be remembered in the long term.
+
+Based on these factors, I predict that the artist of these lyrics will have a moderate success score three years from now. The song's focus on popular themes and its catchy beat may help it gain some traction, but the lack of originality and depth may limit its long-term success.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for the prediction based on your opinion. Those are your only two options
+Grok
+
+@grok
+No.

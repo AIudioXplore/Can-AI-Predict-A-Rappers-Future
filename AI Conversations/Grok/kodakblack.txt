@@ -1,0 +1,123 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide the lyrics and the genre, and I will rate them accordingly.
+AIudio Xplore
+@aiudioxplore
+And Lil Metro on that beat
+
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+They sendin' all my homies on a mission
+And I ain't tryna miss out on these millions
+
+I jumped out of that Wraith, Kodak bought a Wraith
+I get any girl I want, any girl I want
+She want me to save the day, but I ain't got a cape
+She wanna see me every day, she wanna be my bae
+That money make me cum. It made me fornicate
+Uh, I'm the shit, I need some toilet paper
+Follow my player rules then we gon' be okay
+On the real, I need a bih' who gon' cooperate
+
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+They sendin' all my homies on a mission
+And I ain't tryna miss out on these millions
+
+I told you niggas, I'm gon' be that fuckin' nigga
+Everything be good 'til you doin' better than 'em
+They wanna see a nigga shot or see me in the system
+All you niggas out here poison like snake venom
+Codeine in my liver, rockin' Balenciaga denim
+I'm booted even when I'm sober, I don't need a jigga
+They sendin' all my niggas on a fuckin' journey
+I told that baby to come over 'cause I'm fucking horny
+My mama told me, "Kill these niggas, son. Keep it going."
+I'm thug to the bone, but I'm still her baby boy
+Lil Kodak, boy, they hate to see you in a foreign
+They miss when you was in that 'Yota kickin' door
+
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+Lil Kodak, they don't like to see you winnin'
+They wanna see you in a penitentiary
+I need me a lil' baby who gon' listen
+Girl, I don't wanna be the one you iggin'
+My mama told me, "Boy, make a decision."
+Right now I gotta keep a tunnel vision
+They sendin' all my homies on a mission
+And I ain't tryna miss out on these millions
+
+Hip-Hop/Rap
+Grok
+
+@grok
+I have analyzed the lyrics provided and will rate them based on the categories you've requested. Please note that these ratings are subjective and based on my understanding of the song.
+
+Lyric quality: 3/5
+The lyrics are moderately well-written, with a clear theme of overcoming adversity and staying focused on one's goals. However, the language and phrasing can be repetitive at times, which may detract from the overall quality.
+
+Language and wordplay: 3/5
+There are some instances of wordplay and clever use of language, such as the line "I'm the shit, I need some toilet paper." However, the use of slang and colloquial language may limit the appeal to a broader audience.
+
+Originality/uniqueness: 3/5
+The song's theme of perseverance and determination is not unique in the hip-hop genre. However, the artist's personal experiences and perspective give the song a degree of originality.
+
+Memorability: 3/5
+The chorus and some of the verses are catchy and memorable, but the repetitive nature of the lyrics may make it less memorable overall.
+
+Based on my analysis, I would give this song a rating of 3 out of 5 stars.
+
+As for the artist's future success, I predict that they will have a moderate level of achievement, with some Billboard 100 songs, a relatively high number of Spotify monthly listeners, and a fair amount of RIAA certifications and total streams on Spotify.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for your prediction based on your opinion, those are your only two options
+Grok
+
+@grok
+Yes.

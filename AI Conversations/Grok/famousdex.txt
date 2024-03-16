@@ -1,0 +1,89 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I'm ready for the lyrics. Please provide the first set of lyrics and their genre.
+AIudio Xplore
+@aiudioxplore
+You know what I'm sayin'
+I just- that's just how a nigga do it, know what I'm sayin' (Dexter)
+My real name is Dexter, haha
+I got a lot of more diamonds too
+I just got new diamonds by the way
+Uh, woah
+Uh, Dexter
+Ooh, huh
+Yeah, what
+Baby girl, what you doing, where your mans? (where your)
+I just popped a xan, fifty thousand in Japan
+You know what I'm sayin'
+I ain't doin' no playin', you dig
+
+Baby girl, what you doing, where your mans? (where your)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+Baby girl, what you doing, where your mans? (where your mans, baby)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+
+Baby girl, what you doing, what's your name?
+I ain't playin' no games, see these diamonds in my chain
+Smokin' Mary Jane, yeah, I took it to the brain
+And she fuckin' for the fame, so I fucked her in my Range, wait (skr, skr)
+Get that money to the top, never stop (Dexter)
+Mixing red with wock, I just sell that boy rerock, ooh
+But I'm the man, Cuban diamonds dance
+Had to fuck her friend, I might put it on the Gram
+
+Baby girl, what you doing, where your mans? (where your)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+Baby girl, what you doing, where your mans? (where your)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+
+Baby, wait (huh), hop up in this Wraith (skr)
+No this not a date, this a cruise, but don't debate, wait
+It's gettin' late (huh), think it's past 8 (what)
+Took her to my place, baby ate me like some cake, wait
+Call Jay (Jay), think I need an eight (think I need a eight)
+Dopey to the face, fuck, y'all niggas take a break (what)
+Don't be cool, money stupid blue (what)
+Your boyfriend is a fool, I'm tryna make you comfortable
+
+Baby girl, what you doing, where your mans? (where your)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+Baby girl, what you doing, where your mans? (where your mans, baby)
+I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
+I ain't doin' no playin', these red bottoms are no Vans
+And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3
+Language and wordplay: 4
+Originality/uniqueness: 3
+Memorability: 4
+
+Yes, the artist will have a high achievement score three years from now.

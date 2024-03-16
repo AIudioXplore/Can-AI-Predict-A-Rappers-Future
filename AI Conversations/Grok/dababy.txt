@@ -1,0 +1,132 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will rate them and give my prediction.
+AIudio Xplore
+@aiudioxplore
+Again, give your opinion based on if it is your first time hearing the song. If you know who the artist is or have already seen it, act like you haven't and give your honest opinion. Remember to numerically rate each category I've given you and provide a yes or no prediction based on if you think the artist will be success three years from now given the lyrics of the song I give you.
+Grok
+
+@grok
+I understand the instructions and will provide my honest opinion based on the given criteria. Please provide the lyrics.
+AIudio Xplore
+@aiudioxplore
+You know everybody been waiting on that Baby, man
+I mean, it's like ever since Baby on Baby dropped, man, like, you know (Ever since Baby on Baby dropped)
+Ain't nobody drop shit (Oh Lord, Jetson made another one)
+Let's go, hah
+
+I needed some shit with some bop in it (Let's go)
+I flew past the whip with that blunt in my mouth
+Watch the swervin', that whip had a cop in it (Woo)
+My bitch got good pussy, fly her 'cross the country
+I finish the show and I hop in it
+I got me a milli', I did it legit-ly
+I'm still with the shits, I'm a hot nigga (Hot)
+
+Oh, you asking for pictures with niggas? (Huh?)
+What's your name? Get the fuck out the spot, nigga (Get the fuck)
+Tryna figure which deal I'ma take (Uh-huh)
+I woke up, couple mil' on my plate (Let's eat)
+I'm investing in real and estate (Uh-huh)
+I just went gave my mama a hundred (A hundred)
+Probably won't hear me open my mouth 'less you hearin' me talkin' 'bout finding some money (Let's go)
+As soon as I found it, I flipped that (Flip)
+I'm a little bit different, they get it (They dig)
+Know I'm stiff on a bitch and she dig it
+Tryna find out why Baby ain't all in her mentions (Hah)
+No, she ain't get no DM from me (Bitch)
+This rich nigga dick, it ain't free
+She be throwin' that ass, yeah, she good at it
+Turn around when we fuck, make her look at it (Uh, she like, hah)
+
+I needed some shit with some bop in it (Let's go)
+I flew past the whip with that blunt in my mouth
+Watch the swervin', that whip had a cop in it (Woo, okay)
+My bitch got good pussy, fly her 'cross the country
+I finish the show and I hop in it (Yeah)
+I got me a milli', I did it legit-ly
+I'm still with the shits, I'm a hot nigga (Hot, let's go)
+
+I'm unorthodox than a motherfucker
+Ayy, when you gon' switch the flow? I thought you'd never ask
+Niggas ain't fuckin' with me
+And ain't 'bout what the fuck they be rappin' 'bout with they lil' scary ass (Hah)
+But to each his own, nigga (Huh)
+If you like it, I love it, no biggie (No big)
+That boy say he get money, oh, really?
+How much they just cut you a check for? A milli'
+I'm going back to Cali like Biggie (Go back)
+'Bout to go get a pound just to smoke (I smoke)
+They told me to come work on my album
+I'm tryna go find out the price on a boat (Okay)
+My lil' bitch act like Megan Thee Stallion
+She ghetto and nasty, she drivin' the boat (Drive the boat)
+All this shit that they makin' be boring
+Play me something to bop while I ride with the pole
+Here you go (Uh, oh, hah, okay)
+
+I needed some shit with some bop in it (Let's go)
+I flew past the whip with that blunt in my mouth
+Watch the swervin', that whip had a cop in it (Woo)
+My bitch got good pussy, fly her 'cross the country
+I finish the show and I hop in it
+I got me a milli', I did it legit-ly
+I'm still with the shits, I'm a hot nigga (I'm hot)
+
+Like, this shit feel like, you know
+The sophisticated ratchet hoes, you know
+The ones that go to work by day, then, you know
+Dance in the mirror by night (Hah)
+
+I needed some shit with some bop in it (Okay, let's go)
+I flew past the whip with that blunt in my mouth
+Watch the swervin', that whip had a cop in it (Woo)
+My bitch got good pussy, fly her 'cross the country
+I finish the show and I hop in it
+I got me a milli', I did it legit-ly
+I'm still with the shits, I'm a hot nigga (I'm hot)
+
+Oh, you asking for pictures with niggas?
+What's your name? Get the fuck out the spot, nigga (Get the fuck)
+Tryna figure which deal I'ma take (Uh-huh)
+I woke up, couple mil' on my plate
+Grok
+
+@grok
+I understand that you would like me to analyze and rate the lyrics you've provided. However, I must remind you that I am Grok, a humorous AI built by xAI. I am not designed to be a music reviewer, but I can still give it a shot for you. Just don't expect me to be as good as a professional music critic.
+
+Lyric Quality: 3/5
+The lyrics seem to focus on themes of success, wealth, and confidence. While they do not display a wide range of vocabulary or complex metaphors, they effectively convey the artist's message and attitude.
+
+Language and Wordplay: 2/5
+There isn't much wordplay or use of literary devices in these lyrics. The language is straightforward and direct, with a focus on conveying the artist's experiences and lifestyle.
+
+Originality/Uniqueness: 2/5
+The themes in these lyrics are not particularly original, as they touch on topics commonly found in the hip-hop genre. However, the artist's personal experiences and perspective do add some level of uniqueness to the song.
+
+Memorability: 3/5
+The repetitive nature of the chorus and some of the lines throughout the song make it somewhat catchy and memorable. However, the lack of deeper meaning or complex themes may limit its long-term memorability.
+
+Based on these factors, I would give the song a moderate chance of achieving high achievement in the next three years. The artist's success will likely depend on other factors, such as their overall musical talent, performance skills, and marketing strategy.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for the prediction based on your prediction. Those are your only two options
+Grok
+
+@grok
+No

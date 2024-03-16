@@ -1,0 +1,92 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I am ready for the lyrics. Please provide the lyrics, and I will provide my analysis and prediction.
+AIudio Xplore
+@aiudioxplore
+Damjonboi
+Bitch
+
+The government tried to ban me from the dark web (Tried to ban me)
+I downloaded Tor Browser, then got back in (Back in)
+Went and got a VPN, just bought another BIN
+I'ma keep searching these bitches on my 'site 'til I can slide a Benz (Keep searching)
+This shit illegal, but it's green, I gotta get it in (Go get rich)
+I paid five thousand for my 'fit, I'm not fitting in (Five racks)
+If the bitch got dirty shoes, she not getting in (Get the fuck out)
+Bro can't move around with no straps, his case is still on pend' (He can't)
+
+Bitch, you can call me anything but broke, that's something I've never been (Don't call me that)
+I'm 'bout to take your bitch to somewhere she ain't never been (Come on)
+You need to stop claiming a hood that you ain't never in (Stop claimin' that)
+Niggas love running off with money, so I never lend
+The hoes never ask you for no money 'cause you always spend (They don't)
+The hoes never ask you for no money, you be bullshitting (You be on bullshit)
+You can ask your bitch about me, I'm a bull in it (Ask about me)
+I just bought a piece for fifty dollars and got the fullz with it (This bitch fire)
+I'm 'bout to buy SRT and do the fool in it (The whole dash)
+I'm tryna do two hundred up the freeway, I ain't got my permit (I ain't got it)
+I just bought some opp pack, got a 'Wood, and burned it
+I feel like Chief Sosa, I can spend this money 'cause I earned it ('Cause I earned it)
+At first I ain't know how to swipe, I took my time and learned it (I did)
+Your bitch was throwing the pussy at me, but I had to curve it
+I made my first ten thousand, took that and turned it (10K)
+One day my bitch got mad at me, took my clothes and burned 'em (My bitch)
+
+The government tried to ban me from the dark web (Dark web)
+I downloaded Tor Browser, then got back in
+Went and got a VPN, just bought another BIN
+I'ma keep searching these bitches on my 'site 'til I can slide a Benz (Slide a Benz)
+This shit illegal, but it's green, I gotta get it in
+I paid five thousand for my 'fit, I'm not fitting in (Five racks)
+If the bitch got dirty shoes, she not getting in (Hell nah)
+Bro can't move around with no straps, his case is still on pend' (Hell nah)
+
+I should've got a gold medal, the way I shoot my gun
+If you see me on the scene while I'm shooting, you better duck and run (You better run)
+Sliding on niggas and shooting houses, I do this shit for fun
+Every time I get another death threat, I buy another gun
+I'm still doing credit card fraud, I'm on the same run (Same shit)
+I'll pop you and your mans with the same gun (Both of y'all)
+My bitch keep telling Instagram we broke up, but we ain't done (Stop playin')
+You tryna copy everything I do, must wanna be my son (Boy)
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Based on the lyrics provided, it seems that the song "Damjonboi" by an unknown artist is a rap track with themes of defiance, financial success, and street life. The lyrics mention the dark web, Tor Browser, and VPNs, indicating a familiarity with illicit activities. The song also touches on issues such as credit card fraud, gun violence, and personal relationships.
+
+In terms of language and wordplay, the song uses slang and colloquial expressions to create a sense of authenticity and connection to its target audience. The lyrics are direct and confrontational, with a focus on self-aggrandizement and a dismissal of rivals.
+
+The song's originality and uniqueness come from its blend of contemporary references to technology and illegal activities, as well as the artist's personal experiences and perspective. The lyrics are memorable due to their vivid imagery and bold claims.
+
+On a scale of 1-5, I would rate the song as follows:
+
+Lyric quality: 3
+Language and wordplay: 4
+Originality/uniqueness: 4
+Memorability: 4
+
+As for the artist's future success, it is difficult to predict with certainty. However, given the song's content and style, it is possible that the artist may achieve a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify if they continue to produce engaging and relatable content.
+AIudio Xplore
+@aiudioxplore
+Only answer yes or no for the prediction given your opinion, those are your only two options
+Grok
+
+@grok
+Yes.

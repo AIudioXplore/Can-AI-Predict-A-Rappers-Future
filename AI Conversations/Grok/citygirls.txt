@@ -1,0 +1,103 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will do my best to give a thoughtful and honest review.
+AIudio Xplore
+@aiudioxplore
+(Earl on the beat)
+
+Real ass bitch, give a fuck 'bout a nigga
+Big Birkin bag, hold five, six figures
+Stripes on my ass so he call this pussy Tigger
+Fuckin' on a scammin' ass, rich ass nigga
+Same group of bitches, ain't no adding to the picture
+Drop a couple racks, watch this ass get bigger
+Drinkin' on liquor, and I'm lookin' at your nigga
+If his money right, he can eat it like a Snicker
+I ain't got time for you fake ass hoes
+Talkin' all loud in them fake ass clothes
+Fake ass shoes match that fake ass gold
+I'm the realest bitch ever to you snake ass hoes
+
+Act up, you can get snatched up
+Act up, you can get snatched up
+Act up, you can get snatched up
+Dirty ass nails, baby girl, you need to back up
+
+It's Yung Miami, and I came to run my sack up (Yup)
+Tired ass hoes on my page tryna track us (Ha)
+Brand new chain, City Girls goin' Platinum (Facts)
+I keep a baby Glock, I ain't fightin' with no random, period (Period)
+You bitches weak, is you serious? (Ha ha)
+I let him taste the pussy, now he actin' all delirious (Ow)
+Did the dash in the Rover like it's Fast and Furious
+She see my number in his phone, now you actin' curious (Bitch)
+He gon' buy me Gucci if I ask for it (Yup)
+He a classy nigga rockin' Tom Ford (Classy)
+I bet your lil' sister wanna look like me (Lil' bitch)
+I bet your lil' brother wanna fuck on me
+Hood bitch, good pussy, I ain't average
+Um, he can't come around without that cabbage (Nah)
+Um, pop a pussy bitch quick, like a bubblegum
+I ain't never worry, I just deal with it for fun
+
+Act up, you can get snatched up
+Act up, you can get snatched up
+Act up, you can get snatched up
+Dirty ass nails, baby girl, you need to back up
+
+JT on the track, and you know I'm 'bout my paper
+Pussy sweet, pussy tight, so he called it Lifesaver
+If your ass a broke nigga, hell nah, I can't date ya
+If your ass a rich nigga, I'ma fuck ya 'til you ain't one
+If that nigga a scammer, I'm turnin to a dancer (yup)
+I make it clap like he got the right answer
+Sit on it with manners, get it harder than a hammer
+He wanna freak, pussy pink, breast cancer
+Oh, you like big butts, well I like big bucks
+I don't care about your chain, nigga, or your big truck (nah)
+Yeah, I know you gettin' it, but is you spendin' it?
+Give a fuck what a nigga got if he ain't givin' it
+Ba-badass bitch, bad attitude (Yeah)
+Nails done, hair done, ass too (Ow)
+Your baby daddy fuckin' me and suckin' me
+He don't answer you, bitch, that's because of me (Period)
+
+Act up, you can get snatched up
+Act up, you can get snatched up
+Act up, you can get snatched up
+Dirty ass nails, baby girl, you need to back up
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 4
+The lyrics are catchy, and the rhymes are well-crafted. The lines are simple, yet effective in conveying the message of the song.
+
+Language and Wordplay: 4
+The song uses a combination of slang and clever wordplay, which adds to the overall appeal of the lyrics. The use of metaphors and similes, such as "Stripes on my ass so he call this pussy Tigger" and "I ain't got time for you fake ass hoes," adds a layer of depth to the lyrics.
+
+Originality/Uniqueness: 3
+While the lyrics are well-written and enjoyable, the subject matter is not particularly unique for a hip-hop/rap song. The song follows a common theme of flaunting wealth and success, which is not groundbreaking in the genre.
+
+Memorability: 4
+The catchy chorus and the repetitive nature of some lines make the song memorable. The song's overall attitude and confidence also contribute to its memorability.
+
+Based on these lyrics alone, I believe the artist has potential for high achievement in three years. The lyrics are well-crafted, and the artist seems to have a strong understanding of their target audience. However, the artist's future success will also depend on factors such as their ability to evolve and adapt to changes in the music industry, as well as their overall work ethic and dedication.
+
+So, my answer is "Yes."

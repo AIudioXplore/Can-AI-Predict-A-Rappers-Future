@@ -1,0 +1,76 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+Yes, I'm ready for the lyrics. Please provide them, and I'll rate them and give my prediction.
+
+AIudio Xplore
+@aiudioxplore
+(Div, Div, Div)
+(D-D-D-Div, don't do it to 'em)
+
+I got my gun, so please spin back, mmm, mmm, please spin back
+I had my gun when they tried to attack, please spin back
+Don't hit and run, just please spin back, please spin back
+We are not done, so please spin back, please spin back
+
+We do this for fun, bet he ain't know that
+Know we out here lookin' for a toe tag
+They was four deep, but I had one gat
+Went and got more heat, so please come back
+Please spin back, wanna know what you meant by that
+Oh, I know, you must have thought I was a ho
+Spin back now and get a tag for your toe
+Trap don't stop, get a bag for the low
+Might go shop and cop a bag for my ho
+Gave her good pipe, had her askin' for more
+If you see me, just know I might be grabbin' my pole (Woo)
+Vintage-ass drip, yeah, the fashion is old
+Re-rock block, no need for the stove
+Her body rock, unbelievable ho
+Fiends hit the block when they need 'em some more
+Four against one, add four to the score
+Four lines enough, but I'm pourin' up more
+Four pound tucked everywhere that I go
+It be with me at the store, it be with me with the ho
+
+I got my gun, so please spin back, mmm, mmm, please spin back
+I had my gun when they tried to attack, please spin back
+Don't hit and run, just please spin back, please spin back
+We are not done, so please spin back, please spin back
+I got my gun, so please spin back, mmm, mmm, please spin back
+I had my gun when they tried to attack, please spin back
+Don't hit and run, just please spin back, please spin back
+We are not done, so please spin back, please spin back
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric Quality: 3
+The lyrics have a decent flow and rhythm, but they lack depth and complexity.
+
+Language and Wordplay: 2
+There are some simple rhymes, but there's not much wordplay or creative use of language.
+
+Originality/Uniqueness: 2
+The lyrics follow a fairly common theme in hip-hop/rap music and don't offer much in terms of originality.
+
+Memorability: 2
+The lyrics have a catchy hook, but they don't stand out as particularly memorable.
+
+Predicted Achievement Score: No.
+Given the limited information provided, it's unlikely that the artist will have a high achievement score in three years. However, this is just my prediction based on the lyrics, and there are many other factors that could influence the artist's success.

@@ -1,0 +1,90 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will do my best to provide a fair and honest assessment.
+AIudio Xplore
+@aiudioxplore
+I'm working on dying
+Hot sauce
+
+I got bands no loan
+Did it all on my own
+I be rockin' 'Vlone', lone, lone
+I don't trap, I got two phones
+Yes, I know I'm on ten toes
+I don't bang with them, no no, no, no
+Get out my lane
+Look at my chain
+Look at my game, woah
+What is yo name?
+Get out my face, you not the gang, no
+Woah, woah, woah, oh, oh, woah, woah, oh
+
+I got the bands and if it's on me
+Pull up, I'm ballin', your shoes gettin' creased
+I'm what your little bro wanted to be
+I got that smoke, coming for free
+Commas on me
+Commas on me
+Commas on me
+Commas on me
+Hundreds on hundreds, no green
+R.I.P. Gus, Lil Peep
+My diamonds is water on freeze
+New chain, new ice, ya dig?
+New ring, new bike, ya dig?
+Your chain is light, ya dig?
+Ya dig? Ya dig?
+Man, I'm so lit
+Got hunnid racks, no deal
+Man, I'm under fill
+Roadside hunt, no kill
+I don't really care how you feel
+Whole game on mils
+Whole game on mils
+Free bro, outgoing mils
+
+I got bands no loan
+Did it all on my own
+I be rockin' 'Vlone', lone, lone
+I don't trap, I got two phones
+Yes, I know I'm on ten toes
+I don't bang with them, no no, no, no
+Get out my lane
+Look at my chain
+Look at my game, woah
+What is yo name?
+Get out my face, you not the gang, no
+Woah, woah, woah, oh, oh, woah, woah, oh
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 3
+The lyrics are simple and repetitive, with a focus on the artist's wealth and success. While it lacks depth and complexity, it does convey a clear message and effectively showcases the artist's confidence.
+
+Language and wordplay: 2
+The language is straightforward and lacks any notable wordplay or clever use of language. The lyrics rely heavily on repetition and simple phrases.
+
+Originality/uniqueness: 2
+The themes of wealth, success, and confidence are common in the hip-hop/rap genre, making these lyrics somewhat generic and not particularly original.
+
+Memorability: 2
+While the repetitive nature of the lyrics might make them somewhat catchy, the lack of depth and originality makes them less memorable overall.
+
+In three years, I predict that the artist will not have a high achievement score. The lyrics are not particularly strong or unique, and the focus on generic themes of wealth and success might not be enough to set the artist apart in the competitive hip-hop/rap genre.

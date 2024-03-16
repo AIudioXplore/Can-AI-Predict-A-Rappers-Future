@@ -1,0 +1,106 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide the first set of lyrics and the genre.
+AIudio Xplore
+@aiudioxplore
+(Wheezy outta here)
+
+Who you think you're foolin'?
+We got new toolies
+We kinda fluent
+I'm scammin' that work
+I come from the mud
+I came out the hood
+Sometimes a gangsta need a hug
+I'ma get out my problems, above 'em
+Hate when people keep doin' too much
+Keep it real, the streets show you no love
+
+We don't need no one vouchin' for us
+I been grindin' here, found me a buzz
+I been searchin' for love and found lust
+It's so hard to stop holdin' a grudge
+'m on that dance, bitch, I shoot like I dance
+My old squad kept the kid in the cut
+Keep your strap, 'cause these niggas play tough
+Pick and choose who the right one to trust
+Pick and choose who the right one to trust
+Keep it real, there's a lotta fake love
+Niggas hate, but they bitches in love
+And the Bentleyall white like a dove
+I took off, ate this Xan, means it works
+Pay that out or I won't do the verse
+I want someone who can tell when it hurt
+You can't tell me she ain't a slut
+
+Who you think you're foolin'?
+We got new toolies
+We kinda fluent
+I'm scammin' that work
+I come from the mud
+I came out the hood
+Sometimes a gangsta need a hug
+I'ma get out my problems, above 'em
+Hate when people keep doin' too much
+Keep it real, the streets show you no love
+
+I don't need no one vouchin' for me
+I be flossin', ain't talkin' 'bout my teeth
+Car push-start, I keep losin' them keys
+Chanel boss, my closet full of C's
+My shit wet, Elliante VV's
+I got pearls on my neck now, no beads
+I get cash in my bank when I'm asleep
+New blue-face, two-tone Patek Philippe
+Beverly Center, shopping spree on me
+New agenda, don't do nothin' free
+Ain't no one of my foreigns on lease
+All my bitches got expensive weaves
+I still strive for my plan to get eased
+I still talk to the Lord on my knees
+Helpin' me take care all of my needs
+And we take off that top for a breeze
+
+Who you think you're foolin'?
+We got new toolies
+We kinda fluent
+I'm scammin' that work
+I come from the mud
+I came out the hood
+Sometimes a gangsta need a hug
+I'ma get out my problems, above 'em
+Hate when people keep doin' too much
+Keep it real, the streets show you no love
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: 4
+The lyrics are well-crafted, with a mix of street-savvy language and introspection. The verses show a good balance between bravado and vulnerability, which adds depth to the song.
+
+Language and wordplay: 3
+The language is clear and straightforward, but there's not a lot of wordplay or complex metaphors present. However, the lyrics are still effective in conveying the artist's message.
+
+Originality/uniqueness: 3
+While the lyrics touch on familiar themes in the hip-hop/rap genre, the artist's personal experiences and perspective add a layer of authenticity that makes the song stand out.
+
+Memorability: 4
+The chorus is catchy and the verses have a good flow, making the song memorable. The mix of braggadocio and introspection also adds an interesting dynamic that helps the song stick in the listener's mind.
+
+Yes, I think the artist has a high chance of achieving success in the next three years. The lyrics show potential and the artist's unique perspective, which can help them stand out in the hip-hop/rap scene.

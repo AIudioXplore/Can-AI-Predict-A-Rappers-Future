@@ -1,0 +1,120 @@
+AIudio Xplore
+@aiudioxplore
+You are a music reviewer who critiques and analyzes music of different artists. Score the following categories for a set of lyrics by an undisclosed artist, considering both the text and the provided genre. I am going to give you several songs that you need to do this for. If you already know who the song is by or have already seen the lyrics before, I want you to act as if this is your first time seeing them. You should use your own discretion in your judgement. I want to know your honest opinion. Here are the categories:
+
+Lyric quality
+Language and wordplay
+Originality/uniqueness
+Memorability
+
+For each category, assign a score on a scale of 1-5, where higher scores indicate better quality. Give a reasoning for why you rated each category the way you did as well.
+
+After you rate the lyrics, I want you to just answer "Yes" or "No", ONLY given this song if you think the artist of the lyrics will have a high achievement score three years from now, which is essentially a metric of them having a high number of Billboard 100 songs, a relatively high number of Spotify monthly listeners, total RIAA certifications, and total streams on Spotify. Although it's difficult to determine the artist's future success with certainty given just the lyrics, I just want to know your prediction no matter what.
+
+Are you ready for the lyrics?
+Grok
+
+@grok
+I am ready for the lyrics. Please provide them, and I will give you my honest opinion and prediction.
+AIudio Xplore
+@aiudioxplore
+Loved each other way more than we loved life
+Was so close people thought we had a love life
+We loved each other way more than we loved life
+(Helluva made this beat, baby)
+Still do (Ayy, JB)
+
+I used to be like, "I don't need security" (Street niggas)
+I don't want these niggas thinking that it's fear in me (At all)
+Told my driver "Be on point," he wasn't hearing' me (Driver)
+Those shots went off, I'm steady callin', you ain't answerin'
+You scarin' me (Hello?)
+In my city if you winnin', you can't stay
+They call bein' broke "Real," they call gettin' money "Fake"
+I gave you a bitch, why you still lookin' at my date?
+I gave you some food, why you still lookin' at my plate, nigga?
+They say they love us, but that love might be hate
+I can't really tell the difference, salt and sugar look the same (It's tricky)
+Look how they did Dex, look how they did Blake (Damn)
+Look how they tried to do me, but got JB
+Man, that jealousy so real, man, that hate so deep
+Man, that envy shit so real, you make it out these streets
+You saw it wasn't me and still shot, what she do to you? (What she do to you?)
+We was just winnin', now I'm cryin' at your funeral
+But every tear I shed another thousand on your head, nigga (That's on my fuckin' momma)
+Now show your face and think I'm playin', nigga
+Every tear I shed another thousand on your head, boy (On my daddy grave)
+Now show your face and think I'm playin'
+Ayy, JB, I wish I was sittin' outside with you
+And I was in that bank with you
+You know your favorite rapper wouldn't have never let them guys get you
+I would've shot 'em, left 'em dyin', leakin' in the street
+Wouldn't have ran, would smoke the rest and watch that man go to sleep
+And you think they came for her?
+Man you know they came for me
+They took my heart and my brains, niggas know that I can't think
+How I'm playin' with these drums, niggas know I'm like Tay Keith
+Eye's bloodshot red, niggas know I ain't been sleepin'
+But all these dead loved ones make it hard to sleep (Make it hard to sleep)
+All this anger inside make it hard to grieve (Make it hard to grieve)
+Ayy, all this nicotine make it hard to breathe (Make it hard to breathe)
+All these tears in my eyes make it hard to sleep (Make it hard to sleep)
+They found a murder weapon, bro, it's gon' be hard to beat (It's gon' be hard to beat)
+First offer 50 years so it's hard to plea, ayy (It's gon' be hard to plea)
+And if they do somethin' to us then they known for it (They known for it)
+But if we do somethin' to them, then we wrong for it (Then we wrong for it)
+
+Fuck that, if you take mines, I take yours, homie (I take yours, homie)
+Then gon' pray to the Lord "Don't be too hard on me" (Please)
+Yeah, you drop one, I drop four, homie (I drop four, homie)
+They be like "God, please don't be too hard on me" (Please)
+
+If we tear this bitch up, they gon' say I'm dead wrong (Dead wrong)
+Fuck that, these niggas got my aunty with a headstone (Damn)
+Niggas tellin' me what to do like they smart as me (What?)
+But they ain't take your heart from you, they took my heart from me (Bitch)
+I got one less person that wanted more from me
+Ready to kill whoever play with me or shorted me (Don't play)
+I got your kids, I got Nanni, I got Nell too
+I got your babies, Kee and Zi and Gabrielle too (Oh)
+I got your sister and your mommy and your fam' too (I got 'em)
+How the fuck you gon' die on me? I can't stand you (Damn)
+I pray they don't go to jail, I want 'em dead
+I'm just listenin' to the streets, hearin' everything they sayin'
+I'm just waitin' on a name, I'm just prayin' that they say it
+Give a fuck if it's the Mayor, nigga, million on his head, ayy, ayy (Whole ticket on his top)
+Wish I can wake you up and beat your ass
+'Cause I was just tellin' you about them dreams I had
+Ayy, niggas snatched my heart out my chest, can't nobody replace it
+Wouldn't have ever believed you was fuckin' with your baby
+"Make sure Tee good" is all I ever heard you sayin'
+Tryna hold my head, I don't know if I'ma make it (Mh-hm)
+This shit been eatin' me (Eatin' up)
+I don't know what you seen in me, but you believed in me ('Lieved in me)
+Tell them "Keep that fake love, let me grieve in peace" (Fuck that shit)
+
+You drop mines, I drop yours, homie (I drop yours)
+You drop one, I drop four, homie (I drop it four)
+Then be like "God, please don't be too hard on me" (God, please)
+God please don't close the door on me (Please)
+
+Hip-Hop/Rap
+Grok
+
+@grok
+Lyric quality: The lyrics are well-written and have a strong emotional impact, with a mix of raw vulnerability and anger. The storytelling is vivid and personal, making it easy for listeners to connect with the artist's pain and frustration. Score: 4.5/5
+
+Language and wordplay: The lyrics use a mix of street slang and more poetic language, creating a powerful contrast between the harsh reality of the streets and the emotional turmoil of the artist. The use of metaphors and vivid imagery adds depth to the storytelling. Score: 4/5
+
+Originality/uniqueness: The lyrics are very personal and specific to the artist's experience, which makes them stand out in a sea of generic hip-hop songs. The raw emotion and honesty in the lyrics give the song a unique voice. Score: 4.5/5
+
+Memorability: The emotional intensity of the lyrics and the catchy hooks make the song quite memorable. The themes of loss, betrayal, and grief are universal, which makes it easy for listeners to relate to the song and remember it. Score: 4/5
+
+Prediction: Based on these lyrics, I believe the artist has a high chance of achieving a high achievement score three years from now. The powerful storytelling and emotional depth of the lyrics, combined with the artist's unique voice, make it likely that they will have a strong presence in the music industry.
+AIudio Xplore
+@aiudioxplore
+Answer yes or no for the prediction with your opinion. Those are your only two options
+Grok
+
+@grok
+Yes.
